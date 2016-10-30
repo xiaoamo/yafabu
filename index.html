@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head lang="en">
+        <meta charset="UTF-8">
+        <title>穷游网</title>
+       <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+        <link rel="stylesheet" type="text/css" href="css/Reset.css"/>
+        <link rel="stylesheet" type="text/css" href="css/index.css"/>
+        <link rel="stylesheet" type="text/css" href="css/swiper-3.3.1.min.css"/>
+        
+    </head>
+    <body>
+        <div id="main" ng-view></div>
+        <div id="tabbar">
+            <ul>
+                <li>
+                    <a href="#/home">
+                        <span id="icon" class="icon"></span>
+                        <span>首页</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="#/order">
+                        <span class="icon"></span>
+                        <span>目的地</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="#/mine">
+                        <span class="icon"></span>
+                        <span>我的</span>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </body>
+    <script  src="libs/require.js" type="text/javascript" data-main="main"></script>
+</html>

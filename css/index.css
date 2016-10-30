@@ -1,0 +1,84 @@
+@charset "utf-8";
+html {
+    font-family: "微软雅黑";
+    width: 100%;
+    height: 100%;
+}
+body {
+    font-size: 1rem;
+    height: 100%;
+    background: #eee;
+}
+#main {
+    width: 100%;
+    height: 100%;
+}
+#tabbar {
+    font-size: 1.5rem;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 3.4rem;
+    background: white;
+}
+#tabbar ul {
+    border-top: 1px solid #DEDEDE ;
+    width: 100%;
+    height: 100%;
+}
+#tabbar ul li {
+    text-align: center;
+    width: 33.3%;
+    height: 100%;
+    float: left;
+    padding-top: 0.4rem;
+}
+#tabbar ul li > a{
+    display: block;
+    width: 100%;
+    height: 100%;
+    text-decoration: none;
+    font-size:0.88rem;
+}
+#tabbar ul li > a .icon{
+    display: inline-block;
+    width: 100%;
+    height: 50%;
+}
+#tabbar ul li:first-child > a #icon{
+    background: url(../img/home_1.png) no-repeat center center;
+    background-size:1.5rem 1.5rem;
+}
+#tabbar ul li:first-child > a #icon + span{
+    color: #00b081;
+}
+#tabbar ul li:first-child > a .icon{
+    background: url(../img/home.png) no-repeat center center;
+    background-size:1.5rem 1.5rem;
+}
+#tabbar ul li:nth-child(2) > a .icon{
+    background: url(../img/place.png) no-repeat center center;
+    background-size:1.5rem 1.5rem;
+}
+#tabbar ul li:nth-child(2) > a #icon{
+    background: url(../img/place_1.png) no-repeat center center;
+   background-size:1.5rem 1.5rem;
+}
+#tabbar ul li:nth-child(2) > a #icon + span{
+    color: #00b081;
+}
+#tabbar ul li:nth-child(3) > a .icon{
+    background: url(../img/mine.png) no-repeat center center;
+  background-size:1.5rem 1.5rem;
+}
+#tabbar ul li:nth-child(3) > a #icon{
+    background: url(../img/mine_1.png) no-repeat center center;
+    background-size:1.5rem 1.5rem;
+}
+#tabbar ul li:nth-child(3) > a #icon + span{
+    color: #00B081;
+}
+#tabbar ul li > a span:last-child{
+    margin-top: -0.1rem;
+    display: block;
+}

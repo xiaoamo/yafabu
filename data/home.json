@@ -1,0 +1,981 @@
+{
+    "status": 1,
+    "info": "",
+    "times": 0,
+    "data": {
+        "msg_switch": 1,
+        "slide": [
+            {
+                "_id": "",
+                "id": "",
+                "open_type": "3",
+                "title": "欧铁指南",
+                "url": "http://m.qyer.com/z/zt/otzn?%2Fsource=app2&campaign=zkapp&category=slide_otzn%2F&client_id=qyer_discount_androi&track_app_version=2.0.1&track_deviceid=861891034594796&ra_referer=app_home&ra_model=index_ad",
+                "img": "http://pic.qyer.com/public/lmapp/op_conf/2016/06/12/14657279979977?imageMogr2/thumbnail/!750x375r",
+                "type": "topic",
+                "ra_n_model": "index_ad"
+            },
+            {
+                "_id": "",
+                "id": "",
+                "open_type": "3",
+                "title": "台湾local",
+                "url": "http://m.qyer.com/z/zt/xrtw&source=app2&campaign=zkapp&category=zksy_xrtw/?client_id=qyer_discount_androi&track_app_version=2.0.1&track_deviceid=861891034594796&ra_referer=app_home&ra_model=index_ad",
+                "img": "http://pic.qyer.com/public/lastmin/app_operation/2016/05/26/14642288334975?imageMogr2/thumbnail/!750x375r",
+                "type": "topic",
+                "ra_n_model": "index_ad"
+            },
+            {
+                "_id": "",
+                "id": "",
+                "open_type": "3",
+                "title": "欧洲杯",
+                "url": "http://m.qyer.com/z/zt/uefa&source=app&campaign=zkapp&category=zksy_uefa/?client_id=qyer_discount_androi&track_app_version=2.0.1&track_deviceid=861891034594796&ra_referer=app_home&ra_model=index_ad",
+                "img": "http://pic.qyer.com/public/lastmin/app_operation/2016/04/06/14599125505897?imageMogr2/thumbnail/!750x375r",
+                "type": "topic",
+                "ra_n_model": "index_ad"
+            },
+            {
+                "_id": "",
+                "id": "",
+                "open_type": "3",
+                "title": "春风十里",
+                "url": "http://m.qyer.com/z/zt/springtickets&source=app&campaign=zkapp&category=zksy_springtickets/?client_id=qyer_discount_androi&track_app_version=2.0.1&track_deviceid=861891034594796&ra_referer=app_home&ra_model=index_ad",
+                "img": "http://pic.qyer.com/public/lastmin/app_operation/2016/04/06/14599126263763?imageMogr2/thumbnail/!750x375r",
+                "type": "topic",
+                "ra_n_model": "index_ad"
+            },
+            {
+                "_id": "",
+                "id": "",
+                "open_type": "1",
+                "title": "秋日游走新西兰",
+                "url": "http://m.qyer.com/z/zt/newzealand3&source=app2&campaign=zkapp&category=zksy_newzealand3/?source=app2&client_id=qyer_discount_androi&track_app_version=2.0.1&track_deviceid=861891034594796&ra_referer=app_home&ra_model=index_ad",
+                "img": "http://pic.qyer.com/public/lmapp/op_conf/2016/04/08/14601123416243?imageMogr2/thumbnail/!750x375r",
+                "type": "topic",
+                "ra_n_model": "index_ad"
+            },
+            {
+                "_id": "",
+                "id": "",
+                "open_type": "3",
+                "title": "999预算499出行日本",
+                "url": "http://m.qyer.com/z/zt/499tickets&source=app2&campaign=zkapp&category=zksy_499tickets/?client_id=qyer_discount_androi&track_app_version=2.0.1&track_deviceid=861891034594796&ra_referer=app_home&ra_model=index_ad",
+                "img": "http://pic.qyer.com/public/lastmin/app_operation/2016/02/18/14557886506336?imageMogr2/thumbnail/!750x375r",
+                "type": "topic",
+                "ra_n_model": "index_ad"
+            },
+            {
+                "_id": "",
+                "id": "",
+                "open_type": "3",
+                "title": "日签三年多次只要99元",
+                "url": "http://m.qyer.com/z/zt/visaeveryday&source=app2&campaign=zkapp&category=zksy_visaeveryday/?client_id=qyer_discount_androi&track_app_version=2.0.1&track_deviceid=861891034594796&ra_referer=app_home&ra_model=index_ad",
+                "img": "http://pic.qyer.com/public/lastmin/app_operation/2016/01/04/14519027467590?imageMogr2/thumbnail/!750x375r",
+                "type": "topic",
+                "ra_n_model": "index_ad"
+            },
+            {
+                "_id": "",
+                "id": "",
+                "open_type": "3",
+                "title": "霓虹国旅行地",
+                "url": "http://m.qyer.com/z/zt/nihon&source=app&campaign=zkapp&category=zksy_nihon/?client_id=qyer_discount_androi&track_app_version=2.0.1&track_deviceid=861891034594796&ra_referer=app_home&ra_model=index_ad",
+                "img": "http://pic.qyer.com/public/lmapp/op_conf/2016/04/08/14600988194205?imageMogr2/thumbnail/!750x375r",
+                "type": "topic",
+                "ra_n_model": "index_ad"
+            },
+            {
+                "_id": "",
+                "id": "",
+                "open_type": "3",
+                "title": "冷门玩法",
+                "url": "http://m.qyer.com/z/zt/top100&source=app2&campaign=zkapp&category=zksy_top100/?client_id=qyer_discount_androi&track_app_version=2.0.1&track_deviceid=861891034594796&ra_referer=app_home&ra_model=index_ad",
+                "img": "http://pic.qyer.com/public/lastmin/app_operation/2016/02/04/14545791433867?imageMogr2/thumbnail/!750x375r",
+                "type": "topic",
+                "ra_n_model": "index_ad"
+            }
+        ],
+        "bar": [
+            {
+                "name": "自由行",
+                "icon": "http://pic.qyer.com/public/lmapp/barconf/2016/10/28/14776351731048",
+                "url": "http://z.qyer.com/all_0_0_0_0_178,146_0_0/?"
+            },
+            {
+                "name": "机票",
+                "icon": "http://pic.qyer.com/public/lmapp/barconf/2016/10/28/14776352031692",
+                "url": "http://z.qyer.com/all_0_0_0_0_178,145_0_0/?"
+            },
+            {
+                "name": "城市玩乐",
+                "icon": "http://pic.qyer.com/public/lmapp/barconf/2016/10/28/14776350746200",
+                "url": "http://z.qyer.com/local/"
+            },
+            {
+                "name": "签证",
+                "icon": "http://pic.qyer.com/public/lmapp/barconf/2016/10/28/14776351356181",
+                "url": "http://z.qyer.com/visa/"
+            },
+            {
+                "name": "酒店",
+                "icon": "http://pic.qyer.com/public/lmapp/barconf/2016/10/28/14776351227113",
+                "url": "http://z.qyer.com/all_0_0_0_0_178,157_0_0/?"
+            },
+            {
+                "name": "邮轮",
+                "icon": "http://pic.qyer.com/public/lmapp/barconf/2016/10/28/14776354612459",
+                "url": "http://z.qyer.com/all_0_0_0_0_178,148_0_0/?"
+            },
+            {
+                "name": "CityWalk",
+                "icon": "http://pic.qyer.com/public/lmapp/barconf/2016/10/28/14776352202587",
+                "url": "http://z.qyer.com/all_0_0_0_0_179,141_0_0/?"
+            },
+            {
+                "name": "租车",
+                "icon": "http://pic.qyer.com/public/lmapp/barconf/2016/10/28/14776351882270",
+                "url": "http://z.qyer.com/all_0_0_0_0_181,139_0_0/?"
+            },
+            {
+                "name": "发现城市",
+                "icon": "http://pic.qyer.com/public/lmapp/barconf/2016/10/28/14776350926255",
+                "url": "http://z.qyer.com/all_0_0_0_0_179,140_0_0/?"
+            },
+            {
+                "name": "特色线路",
+                "icon": "http://pic.qyer.com/public/lmapp/barconf/2016/10/28/14776351483135",
+                "url": "http://m.qyer.com/z/zt/leadertour"
+            },
+            {
+                "name": "更多",
+                "icon": "http://pic.qyer.com/public/lmapp/barconf/2016/10/28/14776351096027",
+                "url": "lastminute://category"
+            }
+        ],
+        "promo": [
+            {
+                "_id": "",
+                "id": "",
+                "open_type": "3",
+                "title": "限时特卖",
+                "url": "lastminute://localDissertation?title=%e9%99%90%e6%97%b6%e7%89%b9%e5%8d%96&cover=http%3a%2f%2fpic.qyer.com%2fpublic%2flastmin%2fconfig%2f2015%2f10%2f20%2f14453241336573&ids=52191,78049,73674,81147,86812,86802,87540,51176,39684,69784,73946,66281,82696,69883,66681,60679,57969,60394,64621,83564,59295,55508,77188,66483,44820,70611,75304,79143,67899,77855,74243,77746,86336,86332,46252,66299,65530,62016,54168,50430",
+                "img": "http://pic.qyer.com/public/lmapp/op_conf/2016/10/28/14776239979248?imageMogr2/thumbnail/!750x375r",
+                "type": "topic",
+                "ra_n_model": "Homepage-staticactivity_buylimits"
+            },
+            {
+                "_id": "",
+                "id": "",
+                "open_type": "3",
+                "title": "尾货抢购",
+                "url": "http://m.qyer.com/z/zt/weihuo/?source=app2&campaign=zkapp&category=zk1_weihuo%2F&client_id=qyer_discount_androi&track_app_version=2.0.1&track_deviceid=861891034594796&ra_referer=app_home&ra_model=route",
+                "img": "http://pic.qyer.com/public/lmapp/op_conf/2016/10/28/14776240817307?imageMogr2/thumbnail/!750x375r",
+                "type": "topic",
+                "ra_n_model": "Homepage-staticactivity_leftover"
+            },
+            {
+                "_id": "",
+                "id": "",
+                "open_type": "3",
+                "title": "超值机票",
+                "url": "http://m.qyer.com/z/zt/flysale3/?source=app&campaign=zkapp&category=zk2_flysale3%2F&client_id=qyer_discount_androi&track_app_version=2.0.1&track_deviceid=861891034594796&ra_referer=app_home&ra_model=route",
+                "img": "http://pic.qyer.com/public/lmapp/op_conf/2016/10/28/14776248297004?imageMogr2/thumbnail/!750x375r",
+                "type": "topic",
+                "ra_n_model": "Homepage-staticactivity_cheapflights"
+            },
+            {
+                "_id": "",
+                "id": "",
+                "open_type": "3",
+                "title": "手机专享",
+                "url": "http://m.qyer.com/z/appzt/appExcl?source=app2&campaign=zkapp&category=zk3_appExcl%2F&client_id=qyer_discount_androi&track_app_version=2.0.1&track_deviceid=861891034594796&ra_referer=app_home&ra_model=route",
+                "img": "http://pic.qyer.com/public/lmapp/op_conf/2016/10/28/14776248062705?imageMogr2/thumbnail/!750x375r",
+                "type": "topic",
+                "ra_n_model": "Homepage-staticactivity_APPspecial"
+            }
+        ],
+        "hot_topic": [
+            {
+                "_id": "",
+                "id": "",
+                "open_type": "3",
+                "title": "冰火共存 探索极光国度",
+                "url": "http://m.qyer.com/z/zt/iceland/?client_id=qyer_discount_androi&track_app_version=2.0.1&track_deviceid=861891034594796&ra_referer=app_home&ra_model=hot_zt",
+                "img": "http://pic.qyer.com/public/lmapp/op_conf/2016/10/28/14776428065528?imageMogr2/thumbnail/!710x213r",
+                "type": "topic",
+                "ra_n_model": "Homepage-dynamicactivity_b",
+                "topic_type": "tt_b",
+                "subtitle": "",
+                "topic_context": "",
+                "elite": [
+                    {
+                        "id": "63634",
+                        "productType": "2410",
+                        "title": "【出海观鲸】冰岛雷克雅未克观鲸之旅",
+                        "pic": "http://pic.qyer.com/public/supplier/jd/2016/01/11/14525061142164/600x400",
+                        "price": "<em>208</em>元起",
+                        "booktype": "1",
+                        "firstpay_end_time": "1485360000",
+                        "list_price": "498",
+                        "lastminute_des": "4.2折",
+                        "url": "http://m.qyer.com/z/deal/63634/?source=app2&client_id=qyer_discount_androi&track_app_version=2.0.1&track_deviceid=861891034594796&ra_referer=app_home",
+                        "departureTime": "2016/03-2018/12",
+                        "sale_count": "105",
+                        "cate_short_name": "日游体验",
+                        "city_name": "雷克雅未克",
+                        "tag_txt": "",
+                        "ra_n_model": "visa_page_recommend"
+                    },
+                    {
+                        "id": "65033",
+                        "productType": "2410",
+                        "title": "【热门推荐】冰岛雷克雅未克黄金圈小巴车一日游",
+                        "pic": "http://pic.qyer.com/public/supplier/jd/2016/01/23/14535254026358/600x400",
+                        "price": "<em>620</em>元起",
+                        "booktype": "1",
+                        "firstpay_end_time": "1490457600",
+                        "list_price": "550",
+                        "lastminute_des": "11.3折",
+                        "url": "http://m.qyer.com/z/deal/65033/?source=app2&client_id=qyer_discount_androi&track_app_version=2.0.1&track_deviceid=861891034594796&ra_referer=app_home",
+                        "departureTime": "2016/03-2016/12",
+                        "sale_count": "89",
+                        "cate_short_name": "日游体验",
+                        "city_name": "雷克雅未克",
+                        "tag_txt": "",
+                        "ra_n_model": "visa_page_recommend"
+                    },
+                    {
+                        "id": "65279",
+                        "productType": "2410",
+                        "title": "冰岛雷克雅未克至蓝湖地热温泉往返接送(含温泉门票套餐)",
+                        "pic": "http://pic.qyer.com/public/supplier/jd/2016/01/25/14536904696231/600x400",
+                        "price": "<em>623</em>元起",
+                        "booktype": "1",
+                        "firstpay_end_time": "2147483647",
+                        "list_price": "205",
+                        "lastminute_des": "30.4折",
+                        "url": "http://m.qyer.com/z/deal/65279/?source=app2&client_id=qyer_discount_androi&track_app_version=2.0.1&track_deviceid=861891034594796&ra_referer=app_home",
+                        "departureTime": "2016/03-2018/12",
+                        "sale_count": "81",
+                        "cate_short_name": "交通",
+                        "city_name": "雷克雅未克",
+                        "tag_txt": "",
+                        "ra_n_model": "visa_page_recommend"
+                    },
+                    {
+                        "id": "63679",
+                        "productType": "2410",
+                        "title": "【海上探秘】冰岛乘船寻找最原始的海洋极光之旅(雷克雅未克出发)",
+                        "pic": "http://pic.qyer.com/public/supplier/jd/2016/01/11/14524804105749/600x400",
+                        "price": "<em>212</em>元起",
+                        "booktype": "1",
+                        "firstpay_end_time": "2145888000",
+                        "list_price": "588",
+                        "lastminute_des": "3.6折",
+                        "url": "http://m.qyer.com/z/deal/63679/?source=app2&client_id=qyer_discount_androi&track_app_version=2.0.1&track_deviceid=861891034594796&ra_referer=app_home",
+                        "departureTime": "2016/03-2018/12",
+                        "sale_count": "57",
+                        "cate_short_name": "日游体验",
+                        "city_name": "雷克雅未克",
+                        "tag_txt": "",
+                        "ra_n_model": "visa_page_recommend"
+                    },
+                    {
+                        "id": "80955",
+                        "productType": "2410",
+                        "title": "【交通必备】冰岛雷克雅未克市区酒店往返雷克雅未克国际机场单程大巴",
+                        "pic": "http://pic.qyer.com/public/supplier/jd/2016/07/18/14688286096940/600x400",
+                        "price": "<em>118</em>元起",
+                        "booktype": "1",
+                        "firstpay_end_time": "1490371200",
+                        "list_price": "125",
+                        "lastminute_des": "9.4折",
+                        "url": "http://m.qyer.com/z/deal/80955/?source=app2&client_id=qyer_discount_androi&track_app_version=2.0.1&track_deviceid=861891034594796&ra_referer=app_home",
+                        "departureTime": "2016/07-2018/12",
+                        "sale_count": "39",
+                        "cate_short_name": "交通",
+                        "city_name": "雷克雅未克",
+                        "tag_txt": "",
+                        "ra_n_model": "visa_page_recommend"
+                    },
+                    {
+                        "id": "65056",
+                        "productType": "2410",
+                        "title": "冰岛南岸观光＋冰川徒步一日游(雷克雅未克出发)",
+                        "pic": "http://pic.qyer.com/public/supplier/jd/2016/01/21/14533654452077/600x400",
+                        "price": "<em>1420</em>元起",
+                        "booktype": "1",
+                        "firstpay_end_time": "1490457600",
+                        "list_price": "1489",
+                        "lastminute_des": "9.5折",
+                        "url": "http://m.qyer.com/z/deal/65056/?source=app2&client_id=qyer_discount_androi&track_app_version=2.0.1&track_deviceid=861891034594796&ra_referer=app_home",
+                        "departureTime": "2016/03-2016/12",
+                        "sale_count": "33",
+                        "cate_short_name": "日游体验",
+                        "city_name": "冰岛",
+                        "tag_txt": "",
+                        "ra_n_model": "visa_page_recommend"
+                    },
+                    {
+                        "id": "64942",
+                        "productType": "2410",
+                        "title": "【最纯净的水】冰岛史费拉silfra大裂缝浮潜体验(美欧大板块间浮潜)",
+                        "pic": "http://pic.qyer.com/public/supplier/lastminute/2016/01/22/14534537689655/600x400",
+                        "price": "<em>1024</em>元起",
+                        "booktype": "1",
+                        "firstpay_end_time": "1490371200",
+                        "list_price": "955",
+                        "lastminute_des": "10.7折",
+                        "url": "http://m.qyer.com/z/deal/64942/?source=app2&client_id=qyer_discount_androi&track_app_version=2.0.1&track_deviceid=861891034594796&ra_referer=app_home",
+                        "departureTime": "2016/03-2016/12",
+                        "sale_count": "29",
+                        "cate_short_name": "日游体验",
+                        "city_name": "雷克雅未克",
+                        "tag_txt": "",
+                        "ra_n_model": "visa_page_recommend"
+                    }
+                ]
+            },
+            {
+                "_id": "",
+                "id": "",
+                "open_type": "3",
+                "title": "1024-1028世界大赏专题",
+                "url": "http://m.qyer.com/z/zt/sjds/?source=app&campaign=zkapp&category=hot_ztsjds_20161024&client_id=qyer_discount_androi&track_app_version=2.0.1&track_deviceid=861891034594796&ra_referer=app_home&ra_model=hot_zt",
+                "img": "http://pic.qyer.com/public/lmapp/op_conf/2016/10/24/14772780916780?imageMogr2/thumbnail/!710x213r",
+                "type": "topic",
+                "ra_n_model": "Homepage-dynamicactivity_b",
+                "topic_type": "tt_b",
+                "subtitle": "",
+                "topic_context": "",
+                "elite": [
+                    {
+                        "id": "59852",
+                        "productType": "1016",
+                        "title": "【元旦假期】上海直飞台北/高雄单程含税机票(可自由搭配回程票)",
+                        "pic": "http://pic.qyer.com/lastminute/library/2014/12/26/1419562589/600x400",
+                        "price": "<em>299</em>元起",
+                        "booktype": "1",
+                        "firstpay_end_time": "1482595200",
+                        "list_price": "999",
+                        "lastminute_des": "3折",
+                        "url": "http://m.qyer.com/z/deal/59852/?source=app2&client_id=qyer_discount_androi&track_app_version=2.0.1&track_deviceid=861891034594796&ra_referer=app_home",
+                        "departureTime": "2016/03-2018/12",
+                        "sale_count": "900",
+                        "cate_short_name": "机票",
+                        "city_name": "台湾",
+                        "tag_txt": "",
+                        "ra_n_model": "visa_page_recommend"
+                    },
+                    {
+                        "id": "64988",
+                        "productType": "1016",
+                        "title": "【APP 立减200元】上海直飞大阪5天往返含税机票（2人出行赠WiFi）",
+                        "pic": "http://pic.qyer.com/public/picstock/2014/09/12/14105190082493/600x400",
+                        "price": "<em>1299</em>元起",
+                        "booktype": "1",
+                        "firstpay_end_time": "1484582400",
+                        "list_price": "4299",
+                        "lastminute_des": "3折",
+                        "url": "http://m.qyer.com/z/deal/64988/?source=app2&client_id=qyer_discount_androi&track_app_version=2.0.1&track_deviceid=861891034594796&ra_referer=app_home",
+                        "departureTime": "2016/05-2018/12",
+                        "sale_count": "900",
+                        "cate_short_name": "机票",
+                        "city_name": "大阪",
+                        "tag_txt": "下单立减200",
+                        "ra_n_model": "visa_page_recommend"
+                    },
+                    {
+                        "id": "77188",
+                        "productType": "1016",
+                        "title": "【拒签全退】北京/上海往返札幌/东京/大阪4-30天含税机票",
+                        "pic": "http://pic.qyer.com/lastminute/library/2014/12/26/1419561720/600x400",
+                        "price": "<em>1299</em>元起",
+                        "booktype": "1",
+                        "firstpay_end_time": "1487174400",
+                        "list_price": "4399",
+                        "lastminute_des": "3折",
+                        "url": "http://m.qyer.com/z/deal/77188/?source=app2&client_id=qyer_discount_androi&track_app_version=2.0.1&track_deviceid=861891034594796&ra_referer=app_home",
+                        "departureTime": "2016/06-2018/12",
+                        "sale_count": "759",
+                        "cate_short_name": "机票",
+                        "city_name": "日本",
+                        "tag_txt": "",
+                        "ra_n_model": "visa_page_recommend"
+                    },
+                    {
+                        "id": "58324",
+                        "productType": "1016",
+                        "title": "【圣诞/元旦】上海直飞日本多地5-6天往返含税机票(赠WIFI)",
+                        "pic": "http://pic.qyer.com/lastminute/library/2015/04/16/552f77a93f8ab.jpg/600x400",
+                        "price": "<em>1299</em>元起",
+                        "booktype": "1",
+                        "firstpay_end_time": "1497196800",
+                        "list_price": "2599",
+                        "lastminute_des": "5折",
+                        "url": "http://m.qyer.com/z/deal/58324/?source=app2&client_id=qyer_discount_androi&track_app_version=2.0.1&track_deviceid=861891034594796&ra_referer=app_home",
+                        "departureTime": "2016/04-2018/12",
+                        "sale_count": "601",
+                        "cate_short_name": "机票",
+                        "city_name": "日本",
+                        "tag_txt": "",
+                        "ra_n_model": "visa_page_recommend"
+                    },
+                    {
+                        "id": "79583",
+                        "productType": "1016",
+                        "title": "【元旦特惠】天津直飞大阪6-7天往返含税机票",
+                        "pic": "http://pic.qyer.com/public/picstock/2014/09/12/14105190082493/600x400",
+                        "price": "<em>999</em>元起",
+                        "booktype": "1",
+                        "firstpay_end_time": "1484841600",
+                        "list_price": "3999",
+                        "lastminute_des": "2.5折",
+                        "url": "http://m.qyer.com/z/deal/79583/?source=app2&client_id=qyer_discount_androi&track_app_version=2.0.1&track_deviceid=861891034594796&ra_referer=app_home",
+                        "departureTime": "2016/08-2018/12",
+                        "sale_count": "570",
+                        "cate_short_name": "机票",
+                        "city_name": "大阪",
+                        "tag_txt": "",
+                        "ra_n_model": "visa_page_recommend"
+                    },
+                    {
+                        "id": "76653",
+                        "productType": "1016",
+                        "title": "【元旦特惠】天津/武汉/重庆直飞大阪5-7天往返含税机票",
+                        "pic": "http://pic.qyer.com/lastminute/library/2015/04/16/552f7a74cc9dc.jpg/600x400",
+                        "price": "<em>799</em>元起",
+                        "booktype": "1",
+                        "firstpay_end_time": "1489334400",
+                        "list_price": "2599",
+                        "lastminute_des": "3.1折",
+                        "url": "http://m.qyer.com/z/deal/76653/?source=app2&client_id=qyer_discount_androi&track_app_version=2.0.1&track_deviceid=861891034594796&ra_referer=app_home",
+                        "departureTime": "2016/06-2018/12",
+                        "sale_count": "523",
+                        "cate_short_name": "机票",
+                        "city_name": "日本",
+                        "tag_txt": "",
+                        "ra_n_model": "visa_page_recommend"
+                    },
+                    {
+                        "id": "67892",
+                        "productType": "1016",
+                        "title": "【APP 立减200】上海直飞东京+大阪6天往返含税机票",
+                        "pic": "http://pic.qyer.com/lastminute/library/2015/04/16/552f77c1ec6ee.jpg/600x400",
+                        "price": "<em>1399</em>元起",
+                        "booktype": "1",
+                        "firstpay_end_time": "1482595200",
+                        "list_price": "4999",
+                        "lastminute_des": "2.8折",
+                        "url": "http://m.qyer.com/z/deal/67892/?source=app2&client_id=qyer_discount_androi&track_app_version=2.0.1&track_deviceid=861891034594796&ra_referer=app_home",
+                        "departureTime": "2016/04-2018/12",
+                        "sale_count": "299",
+                        "cate_short_name": "机票",
+                        "city_name": "日本",
+                        "tag_txt": "下单立减200",
+                        "ra_n_model": "visa_page_recommend"
+                    }
+                ]
+            },
+            {
+                "_id": "",
+                "id": "",
+                "open_type": "3",
+                "title": "1019-1026日本秋冬local",
+                "url": "http://m.qyer.com/z/zt/qdrb/?source=app&campaign=zkapp&category=hot_ztjpwinterlocal_20161019&client_id=qyer_discount_androi&track_app_version=2.0.1&track_deviceid=861891034594796&ra_referer=app_home&ra_model=hot_zt",
+                "img": "http://pic.qyer.com/public/lmapp/op_conf/2016/10/19/14768744812422?imageMogr2/thumbnail/!710x213r",
+                "type": "topic",
+                "ra_n_model": "Homepage-dynamicactivity_b",
+                "topic_type": "tt_b",
+                "subtitle": "",
+                "topic_context": "",
+                "elite": [
+                    {
+                        "id": "85852",
+                        "productType": "2410",
+                        "title": "【红叶】日本富山黑部峡谷小火车+岐阜飞弹高山+白川乡二日游(东京往返)",
+                        "pic": "http://pic.qyer.com/public/supplier/lastminute/2016/10/17/14766888007389/600x400",
+                        "price": "<em>2040</em>元起",
+                        "booktype": "1",
+                        "firstpay_end_time": "1478966400",
+                        "list_price": "28000",
+                        "lastminute_des": "0.7折",
+                        "url": "http://m.qyer.com/z/deal/85852/?source=app2&client_id=qyer_discount_androi&track_app_version=2.0.1&track_deviceid=861891034594796&ra_referer=app_home",
+                        "departureTime": "2016/11-2018/12",
+                        "sale_count": "2",
+                        "cate_short_name": "日游体验",
+                        "city_name": "日本",
+                        "tag_txt": "",
+                        "ra_n_model": "visa_page_recommend"
+                    },
+                    {
+                        "id": "85850",
+                        "productType": "2410",
+                        "title": "日本岐阜县白川乡+飞弹高山+飞单之里圣诞点灯夜景一日游(名古屋往返)",
+                        "pic": "http://pic.qyer.com/public/supplier/lastminute/2016/10/17/14766843531701/600x400",
+                        "price": "<em>666</em>元起",
+                        "booktype": "1",
+                        "firstpay_end_time": "1481904000",
+                        "list_price": "10999",
+                        "lastminute_des": "0.6折",
+                        "url": "http://m.qyer.com/z/deal/85850/?source=app2&client_id=qyer_discount_androi&track_app_version=2.0.1&track_deviceid=861891034594796&ra_referer=app_home",
+                        "departureTime": "-2018/12",
+                        "sale_count": "1",
+                        "cate_short_name": "日游体验",
+                        "city_name": "岐阜县",
+                        "tag_txt": "",
+                        "ra_n_model": "visa_page_recommend"
+                    },
+                    {
+                        "id": "86014",
+                        "productType": "2410",
+                        "title": "日本静冈河津樱花节+伊豆水果园草莓采摘一日游(东京往返)",
+                        "pic": "http://pic.qyer.com/public/supplier/lastminute/2016/10/17/14766867947874/600x400",
+                        "price": "<em>611</em>元起",
+                        "booktype": "1",
+                        "firstpay_end_time": "1487952000",
+                        "list_price": "10299",
+                        "lastminute_des": "0.6折",
+                        "url": "http://m.qyer.com/z/deal/86014/?source=app2&client_id=qyer_discount_androi&track_app_version=2.0.1&track_deviceid=861891034594796&ra_referer=app_home",
+                        "departureTime": "-",
+                        "sale_count": "0",
+                        "cate_short_name": "日游体验",
+                        "city_name": "日本",
+                        "tag_txt": "",
+                        "ra_n_model": "visa_page_recommend"
+                    },
+                    {
+                        "id": "85979",
+                        "productType": "2410",
+                        "title": "日本长野地狱谷野猿公园看雪猴泡温泉+日式火锅午餐一日游(新宿往返)",
+                        "pic": "http://pic.qyer.com/public/supplier/lastminute/2016/10/17/14766863305484/600x400",
+                        "price": "<em>748</em>元起",
+                        "booktype": "1",
+                        "firstpay_end_time": "1486224000",
+                        "list_price": "13000",
+                        "lastminute_des": "0.6折",
+                        "url": "http://m.qyer.com/z/deal/85979/?source=app2&client_id=qyer_discount_androi&track_app_version=2.0.1&track_deviceid=861891034594796&ra_referer=app_home",
+                        "departureTime": "-2018/12",
+                        "sale_count": "0",
+                        "cate_short_name": "日游体验",
+                        "city_name": "日本",
+                        "tag_txt": "",
+                        "ra_n_model": "visa_page_recommend"
+                    },
+                    {
+                        "id": "85858",
+                        "productType": "2410",
+                        "title": "日本爱知县香岚溪+静冈大井川铁道蒸汽列车赏枫二日游(新宿往返)",
+                        "pic": "http://pic.qyer.com/public/supplier/lastminute/2016/10/17/14766878352062/600x400",
+                        "price": "<em>1965</em>元起",
+                        "booktype": "1",
+                        "firstpay_end_time": "1480780800",
+                        "list_price": "28900",
+                        "lastminute_des": "0.7折",
+                        "url": "http://m.qyer.com/z/deal/85858/?source=app2&client_id=qyer_discount_androi&track_app_version=2.0.1&track_deviceid=861891034594796&ra_referer=app_home",
+                        "departureTime": "2016/11-2018/12",
+                        "sale_count": "0",
+                        "cate_short_name": "日游体验",
+                        "city_name": "日本",
+                        "tag_txt": "",
+                        "ra_n_model": "visa_page_recommend"
+                    },
+                    {
+                        "id": "85791",
+                        "productType": "2410",
+                        "title": "日本京都琉璃溪自然公园+美山茅草屋之里一日游",
+                        "pic": "http://pic.qyer.com/public/supplier/jd/2016/09/29/14751404482241/600x400",
+                        "price": "<em>543</em>元起",
+                        "booktype": "1",
+                        "firstpay_end_time": "1479484800",
+                        "list_price": "7999",
+                        "lastminute_des": "0.7折",
+                        "url": "http://m.qyer.com/z/deal/85791/?source=app2&client_id=qyer_discount_androi&track_app_version=2.0.1&track_deviceid=861891034594796&ra_referer=app_home",
+                        "departureTime": "2016/10-2018/12",
+                        "sale_count": "0",
+                        "cate_short_name": "日游体验",
+                        "city_name": "日本",
+                        "tag_txt": "",
+                        "ra_n_model": "visa_page_recommend"
+                    },
+                    {
+                        "id": "85817",
+                        "productType": "2410",
+                        "title": "日本岐阜县白川乡+飞弹高山+下吕峡温泉2日游(2人起订,大阪/京都往返)",
+                        "pic": "http://pic.qyer.com/public/supplier/lastminute/2016/10/17/14766845725283/600x400",
+                        "price": "<em>1683</em>元起",
+                        "booktype": "1",
+                        "firstpay_end_time": "1490889600",
+                        "list_price": "29999",
+                        "lastminute_des": "0.6折",
+                        "url": "http://m.qyer.com/z/deal/85817/?source=app2&client_id=qyer_discount_androi&track_app_version=2.0.1&track_deviceid=861891034594796&ra_referer=app_home",
+                        "departureTime": "-2018/12",
+                        "sale_count": "0",
+                        "cate_short_name": "日游体验",
+                        "city_name": "岐阜县",
+                        "tag_txt": "",
+                        "ra_n_model": "visa_page_recommend"
+                    }
+                ]
+            },
+            {
+                "_id": "",
+                "id": "",
+                "open_type": "3",
+                "title": "1011长期巴黎城市玩乐导购",
+                "url": "http://m.qyer.com/z/zt/bali/?source=app&campaign=zkapp&category=hot_ztpairs_20161011&client_id=qyer_discount_androi&track_app_version=2.0.1&track_deviceid=861891034594796&ra_referer=app_home&ra_model=hot_zt",
+                "img": "http://pic.qyer.com/public/lmapp/op_conf/2016/10/11/14761534476094?imageMogr2/thumbnail/!710x213r",
+                "type": "topic",
+                "ra_n_model": "Homepage-dynamicactivity_b",
+                "topic_type": "tt_b",
+                "subtitle": "",
+                "topic_context": "",
+                "elite": [
+                    {
+                        "id": "48184",
+                        "productType": "2410",
+                        "title": "【人气必备】法国巴黎塞纳河Bateaux Parisiens游船观光电子票",
+                        "pic": "http://pic.qyer.com/public/supplier/lastminute/2015/07/17/14371132375218/600x400",
+                        "price": "<em>48</em>元起",
+                        "booktype": "1",
+                        "firstpay_end_time": "2145888000",
+                        "list_price": "105",
+                        "lastminute_des": "4.6折",
+                        "url": "http://m.qyer.com/z/deal/48184/?source=app2&client_id=qyer_discount_androi&track_app_version=2.0.1&track_deviceid=861891034594796&ra_referer=app_home",
+                        "departureTime": "多日期出发",
+                        "sale_count": "3769",
+                        "cate_short_name": "日游体验",
+                        "city_name": "巴黎",
+                        "tag_txt": "",
+                        "ra_n_model": "visa_page_recommend"
+                    },
+                    {
+                        "id": "48156",
+                        "productType": "2410",
+                        "title": "【电子兑换券】法国巴黎卢浮宫博物馆免排队门票",
+                        "pic": "http://pic.qyer.com/public/supplier/lastminute/2015/07/29/14381557325047/600x400",
+                        "price": "<em>120</em>元起",
+                        "booktype": "1",
+                        "firstpay_end_time": "1490889600",
+                        "list_price": "150",
+                        "lastminute_des": "8折",
+                        "url": "http://m.qyer.com/z/deal/48156/?source=app2&client_id=qyer_discount_androi&track_app_version=2.0.1&track_deviceid=861891034594796&ra_referer=app_home",
+                        "departureTime": "2016/03-2018/12",
+                        "sale_count": "2583",
+                        "cate_short_name": "景点门票",
+                        "city_name": "巴黎",
+                        "tag_txt": "",
+                        "ra_n_model": "visa_page_recommend"
+                    },
+                    {
+                        "id": "49004",
+                        "productType": "2410",
+                        "title": "【自由行必备】法国巴黎博物馆2日/4日通票电子兑换票",
+                        "pic": "http://pic.qyer.com/public/supplier/jd/2016/06/07/14652633066381/600x400",
+                        "price": "<em>356</em>元起",
+                        "booktype": "1",
+                        "firstpay_end_time": "1490889600",
+                        "list_price": "389",
+                        "lastminute_des": "9.2折",
+                        "url": "http://m.qyer.com/z/deal/49004/?source=app2&client_id=qyer_discount_androi&track_app_version=2.0.1&track_deviceid=861891034594796&ra_referer=app_home",
+                        "departureTime": "2016/03-2018/12",
+                        "sale_count": "1663",
+                        "cate_short_name": "景点门票",
+                        "city_name": "巴黎",
+                        "tag_txt": "",
+                        "ra_n_model": "visa_page_recommend"
+                    },
+                    {
+                        "id": "52242",
+                        "productType": "2410",
+                        "title": "【热门必备】法国巴黎埃菲尔铁塔免排队电子换票证(含顶层入场)",
+                        "pic": "http://pic.qyer.com/public/supplier/lastminute/2015/08/26/14405908106776/600x400",
+                        "price": "<em>259</em>元起",
+                        "booktype": "1",
+                        "firstpay_end_time": "1480003200",
+                        "list_price": "335",
+                        "lastminute_des": "7.7折",
+                        "url": "http://m.qyer.com/z/deal/52242/?source=app2&client_id=qyer_discount_androi&track_app_version=2.0.1&track_deviceid=861891034594796&ra_referer=app_home",
+                        "departureTime": "2016/03-2018/12",
+                        "sale_count": "892",
+                        "cate_short_name": "景点门票",
+                        "city_name": "巴黎",
+                        "tag_txt": "",
+                        "ra_n_model": "visa_page_recommend"
+                    },
+                    {
+                        "id": "51967",
+                        "productType": "2410",
+                        "title": "【实体门票】法国巴黎凡尔赛宫免排队(含中文语音导览)",
+                        "pic": "http://pic.qyer.com/public/supplier/lastminute/2015/08/20/14400512506821/600x400",
+                        "price": "<em>115</em>元起",
+                        "booktype": "1",
+                        "firstpay_end_time": "2145888000",
+                        "list_price": "135",
+                        "lastminute_des": "8.5折",
+                        "url": "http://m.qyer.com/z/deal/51967/?source=app2&client_id=qyer_discount_androi&track_app_version=2.0.1&track_deviceid=861891034594796&ra_referer=app_home",
+                        "departureTime": "多日期出发",
+                        "sale_count": "695",
+                        "cate_short_name": "景点门票",
+                        "city_name": "法国",
+                        "tag_txt": "",
+                        "ra_n_model": "visa_page_recommend"
+                    },
+                    {
+                        "id": "48507",
+                        "productType": "2410",
+                        "title": "【强势推荐】法国巴黎塞纳河Bateaux Parisiens游船法式晚餐体验",
+                        "pic": "http://pic.qyer.com/public/supplier/jd/2016/02/16/14556342536440/600x400",
+                        "price": "<em>495</em>元起",
+                        "booktype": "1",
+                        "firstpay_end_time": "1483113600",
+                        "list_price": "580",
+                        "lastminute_des": "8.5折",
+                        "url": "http://m.qyer.com/z/deal/48507/?source=app2&client_id=qyer_discount_androi&track_app_version=2.0.1&track_deviceid=861891034594796&ra_referer=app_home",
+                        "departureTime": "2016/03-2018/12",
+                        "sale_count": "486",
+                        "cate_short_name": "日游体验",
+                        "city_name": "巴黎",
+                        "tag_txt": "",
+                        "ra_n_model": "visa_page_recommend"
+                    },
+                    {
+                        "id": "62494",
+                        "productType": "2410",
+                        "title": "【电子兑换券】法国巴黎凡尔赛宫免排队门票(含中文语音导览)",
+                        "pic": "http://pic.qyer.com/public/supplier/lastminute/2016/10/11/14761522666203/600x400",
+                        "price": "<em>115</em>元起",
+                        "booktype": "1",
+                        "firstpay_end_time": "1490889600",
+                        "list_price": "135",
+                        "lastminute_des": "8.5折",
+                        "url": "http://m.qyer.com/z/deal/62494/?source=app2&client_id=qyer_discount_androi&track_app_version=2.0.1&track_deviceid=861891034594796&ra_referer=app_home",
+                        "departureTime": "2016/03-2016/12",
+                        "sale_count": "443",
+                        "cate_short_name": "景点门票",
+                        "city_name": "法国",
+                        "tag_txt": "",
+                        "ra_n_model": "visa_page_recommend"
+                    }
+                ]
+            }
+        ],
+        "ptype_icon": [
+            {
+                "ptype_id": 1016,
+                "icon": "http://pic.qyer.com/public/lmapp/category/2016/05/06/14625305428231",
+                "bgc": "#F08278"
+            },
+            {
+                "ptype_id": 1017,
+                "icon": "http://pic.qyer.com/public/lmapp/category/2015/12/18/14504218284381",
+                "bgc": "#FFC467"
+            },
+            {
+                "ptype_id": 1018,
+                "icon": "http://pic.qyer.com/public/lmapp/category/2015/12/18/14504218402045",
+                "bgc": "#53C9AE"
+            },
+            {
+                "ptype_id": 1020,
+                "icon": "http://pic.qyer.com/public/lmapp/category/2015/12/18/14504218767560",
+                "bgc": "#82DCC8"
+            },
+            {
+                "ptype_id": 1021,
+                "icon": "http://pic.qyer.com/public/lmapp/category/2015/12/18/14504218939732",
+                "bgc": "#F0AA82"
+            },
+            {
+                "ptype_id": 1049,
+                "icon": "http://pic.qyer.com/public/lmapp/category/2015/12/18/14504219064960",
+                "bgc": "#8CC8E6"
+            },
+            {
+                "ptype_id": 1785,
+                "icon": "http://pic.qyer.com/public/lmapp/category/2015/12/18/14504218559129",
+                "bgc": "#64DAE8"
+            },
+            {
+                "ptype_id": 2410,
+                "icon": "http://pic.qyer.com/public/lmapp/category/2015/12/18/14504219227421",
+                "bgc": "#F0AA64"
+            },
+            {
+                "ptype_id": 2375,
+                "icon": "http://pic.qyer.com/lastminute/library/2015/12/16/5670d34dd3d10.png",
+                "bgc": "#D77581"
+            },
+            {
+                "ptype_id": 123463,
+                "icon": "http://pic.qyer.com/public/lmapp/category/2016/01/08/14522420964117",
+                "bgc": "#D6D86F"
+            },
+            {
+                "ptype_id": 123464,
+                "icon": "http://pic.qyer.com/public/lmapp/category/2015/12/18/14504218402045",
+                "bgc": "#53C9AE"
+            }
+        ],
+        "head_slide": {
+            "count": 3,
+            "slide_data": [
+                {
+                    "_id": "",
+                    "id": "",
+                    "open_type": "1",
+                    "name": "1027-1031大促预热",
+                    "url": "http://m.qyer.com/z/zt/20161111/?source=app2&campaign=zkapp&category=zkslide_dacuyure_20161027&client_id=qyer_discount_androi&track_app_version=2.0.1&track_deviceid=861891034594796&ra_referer=app_home&ra_model=head_slide",
+                    "cover": "http://pic.qyer.com/public/lmapp/op_conf/2016/10/28/14776339123805?imageMogr2/thumbnail/!750x375r",
+                    "type": "APP_OP_HEAD_SLIDE",
+                    "ra_n_model": "head_slide"
+                },
+                {
+                    "_id": "",
+                    "id": "",
+                    "open_type": "1",
+                    "name": "1024-1028世界大赏专题",
+                    "url": "http://m.qyer.com/z/zt/sjds/?source=app2&campaign=zkapp&category=zkslide_ztsjds_20161024&client_id=qyer_discount_androi&track_app_version=2.0.1&track_deviceid=861891034594796&ra_referer=app_home&ra_model=head_slide",
+                    "cover": "http://pic.qyer.com/public/lmapp/op_conf/2016/10/24/14772780279485?imageMogr2/thumbnail/!750x375r",
+                    "type": "APP_OP_HEAD_SLIDE",
+                    "ra_n_model": "head_slide"
+                },
+                {
+                    "_id": "",
+                    "id": "",
+                    "open_type": "1",
+                    "name": "1019-1026日本秋冬local",
+                    "url": "http://m.qyer.com/z/zt/qdrb/?source=app2&campaign=zkapp&category=zkslide_ztjpwinterlocal_20161019&client_id=qyer_discount_androi&track_app_version=2.0.1&track_deviceid=861891034594796&ra_referer=app_home&ra_model=head_slide",
+                    "cover": "http://pic.qyer.com/public/lmapp/op_conf/2016/10/19/14768744273409?imageMogr2/thumbnail/!750x375r",
+                    "type": "APP_OP_HEAD_SLIDE",
+                    "ra_n_model": "head_slide"
+                }
+            ]
+        },
+        "gears": [
+            {
+                "_id": "",
+                "id": "",
+                "open_type": "1",
+                "name": "WIFI/电话卡",
+                "url": "http://z.qyer.com/cityfun/wifi_0_0_0_0_0_0_0/?_channel=cityfun&_type=channel&source=app2&client_id=qyer_discount_androi&track_app_version=2.0.1&track_deviceid=861891034594796&ra_referer=app_home&ra_model=gears#anchor_filtrate",
+                "cover": "http://pic.qyer.com/public/lmapp/op_conf/2016/05/16/14633776129918?imageMogr2/thumbnail/!345x231r",
+                "type": "APP_OP_GEARS",
+                "ra_n_model": "gears"
+            },
+            {
+                "_id": "",
+                "id": "",
+                "open_type": "1",
+                "name": "接送机/包车",
+                "url": "http://z.qyer.com/cityfun/transport_0_0_0_0_0_0_0/?_channel=cityfun&_type=channel&source=app2&client_id=qyer_discount_androi&track_app_version=2.0.1&track_deviceid=861891034594796&ra_referer=app_home&ra_model=gears#anchor_filtrate",
+                "cover": "http://pic.qyer.com/public/lmapp/op_conf/2016/05/16/14633776362584?imageMogr2/thumbnail/!345x231r",
+                "type": "APP_OP_GEARS",
+                "ra_n_model": "gears"
+            },
+            {
+                "_id": "",
+                "id": "",
+                "open_type": "1",
+                "name": "签证",
+                "url": "http://z.qyer.com/visa/",
+                "cover": "http://pic.qyer.com/public/lmapp/op_conf/2016/05/16/14633775919589?imageMogr2/thumbnail/!345x231r",
+                "type": "APP_OP_GEARS",
+                "ra_n_model": "gears"
+            },
+            {
+                "_id": "",
+                "id": "",
+                "open_type": "1",
+                "name": "交通券",
+                "url": "http://z.qyer.com/cityfun/citypass_0_0_0_0_0_0_0/?_channel=cityfun&_type=channel&source=app2&client_id=qyer_discount_androi&track_app_version=2.0.1&track_deviceid=861891034594796&ra_referer=app_home&ra_model=gears#anchor_filtrate",
+                "cover": "http://pic.qyer.com/public/lmapp/op_conf/2016/05/16/14633776225766?imageMogr2/thumbnail/!345x231r",
+                "type": "APP_OP_GEARS",
+                "ra_n_model": "gears"
+            },
+            {
+                "_id": "",
+                "id": "",
+                "open_type": "1",
+                "name": "景点门票",
+                "url": "http://z.qyer.com/apptg_ticket/all_0_0_0_0_0_0_0/?_channel=cityfun&_type=channel&source=app2&client_id=qyer_discount_androi&track_app_version=2.0.1&track_deviceid=861891034594796&ra_referer=app_home&ra_model=gears#anchor_filtrate",
+                "cover": "http://pic.qyer.com/public/lmapp/op_conf/2016/05/16/14633776463903?imageMogr2/thumbnail/!345x231r",
+                "type": "APP_OP_GEARS",
+                "ra_n_model": "gears"
+            },
+            {
+                "_id": "",
+                "id": "",
+                "open_type": "1",
+                "name": "旅行保险",
+                "url": "http://z.qyer.com/safe/all_0_0_0_0_0_0_0/?_channel=freetour&_type=channel&source=app2&client_id=qyer_discount_androi&track_app_version=2.0.1&track_deviceid=861891034594796&ra_referer=app_home&ra_model=gears#anchor_filtrate",
+                "cover": "http://pic.qyer.com/public/lmapp/op_conf/2016/05/16/14633776604659?imageMogr2/thumbnail/!345x231r",
+                "type": "APP_OP_GEARS",
+                "ra_n_model": "gears"
+            }
+        ],
+        "sub_cate": [],
+        "hover_ad": [
+            {
+                "_id": "",
+                "id": "",
+                "open_type": "1",
+                "name": "1027-1031大促预热",
+                "url": "http://m.qyer.com/z/zt/20161111/?source=app2&campaign=zkapp&category=xfgg_dacuyure_20161027&client_id=qyer_discount_androi&track_app_version=2.0.1&track_deviceid=861891034594796&ra_referer=app_home&ra_model=hover_ad",
+                "cover": "http://pic.qyer.com/public/lmapp/op_conf/2016/10/28/14776208124005?imageMogr2/thumbnail/!290x194r",
+                "type": "APP_OP_HOVER_AD",
+                "md5": "55a47f0fc7227b68890e265e53eb9243",
+                "ra_n_model": "hover_ad"
+            }
+        ],
+        "welcome_ad": [],
+        "promot_title": "当季热门",
+        "second_ad": [],
+        "search": {},
+        "hot_destination": [],
+        "promo_page": [],
+        "hot_city": [
+            {
+                "id": "14",
+                "name": "日本",
+                "type": "country"
+            },
+            {
+                "id": "215",
+                "name": "泰国",
+                "type": "country"
+            },
+            {
+                "id": "50",
+                "name": "香港",
+                "type": "city"
+            },
+            {
+                "id": "232",
+                "name": "新加坡",
+                "type": "country"
+            },
+            {
+                "id": "213",
+                "name": "马来西亚",
+                "type": "country"
+            },
+            {
+                "id": "236",
+                "name": "美国",
+                "type": "country"
+            },
+            {
+                "id": "186",
+                "name": "法国",
+                "type": "country"
+            }
+        ],
+        "user_info": {
+            "unpay_count": 0
+        }
+    },
+    "trace_switch": "true",
+    "ra_referer": "app_home"
+}
