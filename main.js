@@ -16,8 +16,8 @@ require.config({
 		jqueryFly:"./libs/jquery.fly",
 		swiper:"./libs/swiper-3.3.1.min"
 	},
-	 shim: {
-	 	angular: {
+	shim: {
+        angular: {
             exports: 'angular'
         },
         'angular-route': {
@@ -31,8 +31,7 @@ require.config({
         	deps:['jquery'],
         	exports: 'swiper'
         }
-        
-	 }
+    }
 });
 
 require(['jquery','swiper','angular','index','router','HomeController','cityfunController','citywalkController','MineController','placeController'],function(jquery,swiper,angular,index){
