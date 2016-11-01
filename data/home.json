@@ -136,21 +136,6 @@
                 "name": "租车",
                 "icon": "http://pic.qyer.com/public/lmapp/barconf/2016/10/28/14776351882270",
                 "url": "http://z.qyer.com/all_0_0_0_0_181,139_0_0/?"
-            },
-            {
-                "name": "发现城市",
-                "icon": "http://pic.qyer.com/public/lmapp/barconf/2016/10/28/14776350926255",
-                "url": "http://z.qyer.com/all_0_0_0_0_179,140_0_0/?"
-            },
-            {
-                "name": "特色线路",
-                "icon": "http://pic.qyer.com/public/lmapp/barconf/2016/10/28/14776351483135",
-                "url": "http://m.qyer.com/z/zt/leadertour"
-            },
-            {
-                "name": "更多",
-                "icon": "http://pic.qyer.com/public/lmapp/barconf/2016/10/28/14776351096027",
-                "url": "lastminute://category"
             }
         ],
         "promo": [

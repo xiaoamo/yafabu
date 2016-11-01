@@ -1,0 +1,33 @@
+{
+	"index.html": {
+		"resources": [
+			"img/home_1.png",
+			"css/Reset.css",
+			"modules/place/placeController.js",
+			"modules/mine/MineController.js",
+			"router.js",
+			"modules/cityfun/cityfunController.js",
+			"libs/angular.min.js",
+			"libs/swiper-3.3.1.min.js",
+			"modules/home/HomeController.js",
+			"img/mine.png",
+			"libs/zepto.js",
+			"img/place.png",
+			"js/controllers/index.js",
+			"libs/jquery-2.2.3.js",
+			"modules/home/home.css",
+			"modules/citywalk/citywalkController.js",
+			"css/index.css",
+			"modules/citywalk/citywalk.css",
+			"libs/css.js",
+			"modules/place/place.css",
+			"libs/require.js",
+			"libs/angular-route.js",
+			"modules/cityfun/cityfun.css",
+			"modules/mine/iconfonts.css",
+			"modules/mine/mine.css",
+			"css/swiper-3.3.1.min.css",
+			"main.js"
+		]
+	}
+}

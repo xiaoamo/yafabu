@@ -1,4 +1,4 @@
-﻿{
+{
     "@platforms": ["android", "iPhone", "iPad"],
     "id": "",/*应用的标识，创建应用时自动生成，勿手动修改*/
     "name": "尹昆_angular项目_last",/*应用名称，程序桌面图标名称*/
@@ -199,5 +199,81 @@
                 }
             }
         }
-    }
+    },
+	"dependencies": {
+		"pages": {
+			"index.html": {
+				"resources": [
+					"img/home_1.png",
+					"css/Reset.css",
+					"modules/place/placeController.js",
+					"modules/mine/MineController.js",
+					"router.js",
+					"modules/cityfun/cityfunController.js",
+					"libs/angular.min.js",
+					"libs/swiper-3.3.1.min.js",
+					"modules/home/HomeController.js",
+					"img/mine.png",
+					"libs/zepto.js",
+					"img/place.png",
+					"js/controllers/index.js",
+					"libs/jquery-2.2.3.js",
+					"modules/home/home.css",
+					"modules/citywalk/citywalkController.js",
+					"css/index.css",
+					"modules/citywalk/citywalk.css",
+					"libs/css.js",
+					"modules/place/place.css",
+					"libs/require.js",
+					"libs/angular-route.js",
+					"modules/cityfun/cityfun.css",
+					"modules/mine/iconfonts.css",
+					"modules/mine/mine.css",
+					"css/swiper-3.3.1.min.css",
+					"main.js"
+				],
+				"refer": [],
+				"priority": 0
+			}
+		},
+		"idle": {
+			"resources": [
+				"data/cityfun.json",
+				"modules/cityfun/cityfun.html",
+				"modules/home/home.html",
+				"modules/mine/mine.html",
+				"img/home_icon9.png",
+				"img/home_icon6.png",
+				"img/mine_1.png",
+				"data/place_names.json",
+				"modules/place/place.html",
+				"img/home_icon8.png",
+				"img/saoyisao.png",
+				"img/home_icon4.png",
+				"img/home.png",
+				"data/like_1.json",
+				"img/home_icon5.png",
+				"modules/citywalk/citywalk.html",
+				"img/home_icon7.png",
+				"data/Destination.json",
+				"img/place_1.png",
+				"img/homebg.jpg",
+				"img/serch.png",
+				"data/home.json",
+				"img/14625305428231.png",
+				"data/free_walker.json",
+				"libs/iscroll-add-slideDown-slideUp.js",
+				"img/2.jpg",
+				"libs/jquery.lazyload.min.js",
+				"data/cityWalkList.json",
+				"img/1.jpg",
+				"img/homeclock.png",
+				"img/home_icon3.png",
+				"img/xiaoxi.png",
+				"img/home_icon2.png",
+				"img/3.jpg",
+				"libs/jquery.fly.js"
+			]
+		}
+	}
 }

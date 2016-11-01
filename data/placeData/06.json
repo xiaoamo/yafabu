@@ -1,0 +1,51 @@
+[
+	{
+		"id": 415,
+		"cnname": "巴拉圭",
+		"enname": "Paraguay",
+		"photo": "http://pic4.qyer.com/album/user/310/18/QkhVQxIHYg/index/420x630",
+		"count": 5,
+		"label": "城市",
+		"flag": 1
+	}, {
+		"id": 1292,
+		"cnname": "法属圭亚那",
+		"enname": "French Guiana",
+		"photo": "http://pic.qyer.com/album/user/1023/95/QElXQRMCZEk/index/420x630",
+		"count": 2,
+		"label": "城市",
+		"flag": 1
+	}, {
+		"id": 449,
+		"cnname": "福克兰群岛（马尔维纳斯群岛）",
+		"enname": "Falkland Islands",
+		"photo": "http://pic1.qyer.com/album/user/310/79/QkhVRRMGZg/index/420x630",
+		"count": 1,
+		"label": "城市",
+		"flag": 1
+	}, {
+		"id": 460,
+		"cnname": "圭亚那",
+		"enname": "Guyana",
+		"photo": "http://pic2.qyer.com/album/user/232/29/Q0pXQBMBZA/index/420x630",
+		"count": 2,
+		"label": "城市",
+		"flag": 1
+	}, {
+		"id": 1293,
+		"cnname": "苏里南",
+		"enname": "Suriname",
+		"photo": "http://pic1.qyer.com/album/user/1023/95/QElXQRMCaU8/index/420x630",
+		"count": 2,
+		"label": "城市",
+		"flag": 1
+	}, {
+		"id": 561,
+		"cnname": "乌拉圭",
+		"enname": "Uruguay",
+		"photo": "http://pic2.qyer.com/album/160/7a/2035251/index/420x630",
+		"count": 11,
+		"label": "城市",
+		"flag": 1
+	}
+]

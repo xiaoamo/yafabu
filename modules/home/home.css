@@ -267,12 +267,14 @@
 	padding: 2% 2%;
 	width: 100%;
 	background: white;
-	margin-bottom: 30rem;
+}
+.Lovely>div{
+	position: relative;
 }
 .lovetravel{
 	width: 100%;
-	height: 10rem;
-	margin-top: 2%;
+	height: 11rem;
+	margin-top: 3.2%;
 }
 .lovetravel img{
 	width: 100%;
@@ -280,11 +282,45 @@
 }
 .lovetitle{
 	width: 100%;
-	font-size: 0.8rem;
+	font-size: 0.9rem;
 	color: #49484d;
 	white-space: nowrap;
 	overflow: hidden;
 	text-overflow: ellipsis;
-	margin: 1% 0;
+	margin: 2% 0 1% 0;
 }
 
+.loveSalecount{
+	color: #a4a6a5;
+	font-size: 0.6rem;
+}
+.lovelistprice{
+	float: right;
+	font-size: 1rem;
+	color: #ff7163;
+}
+.lovelistprice i{
+	font-style: normal;
+	color: #a4a6a5;
+	font-size: 0.6rem;
+}
+.loveshortname{
+	position: absolute;
+    top: 0.4rem;
+    right: 0.3rem;
+    font-size: 0.6rem;
+    color: #FFFFFF;
+    padding: 0.5% 0.6rem;
+    background: rgba(0,0,0,0.2);
+    border-radius: 0.8rem;
+}
+.home_footer{
+	width: 45%;
+    height: 2rem;
+    border: 1px solid #00B081;
+    color: #00B081;
+    font-size: 0.7rem;
+    text-align: center;
+    margin: 1.5rem auto 4rem;
+    line-height: 2rem;
+}

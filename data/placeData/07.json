@@ -1,0 +1,139 @@
+[
+	{
+		"id": 412,
+		"cnname": "巴布亚新几内亚",
+		"enname": "Papua New Guinea",
+		"photo": "http://pic.qyer.com/album/user/415/93/RUhQSxkPZg/index/420x630",
+		"count": 27,
+		"label": "城市",
+		"flag": 1
+	}, {
+		"id": 466,
+		"cnname": "基里巴斯",
+		"enname": "Kiribati",
+		"photo": "http://pic3.qyer.com/album/user/310/88/QkhVShIAYA/index/420x630",
+		"count": 1,
+		"label": "城市",
+		"flag": 1
+	}, {
+		"id": 484,
+		"cnname": "库克群岛",
+		"enname": "The Cook Islands",
+		"photo": "http://pic4.qyer.com/album/user/311/75/QkhURR8AYQ/index/420x630",
+		"count": 6,
+		"label": "城市",
+		"flag": 1
+	}, {
+		"id": 502,
+		"cnname": "马绍尔群岛",
+		"enname": "Marshall Islands",
+		"photo": "http://pic2.qyer.com/album/user/315/38/QkhQQRIGYQ/index/420x630",
+		"count": 3,
+		"label": "城市",
+		"flag": 1
+	}, {
+		"id": 505,
+		"cnname": "美属萨摩亚",
+		"enname": "American Samoa",
+		"photo": "http://pic2.qyer.com/album/user/315/38/QkhQQRIAYQ/index/420x630",
+		"count": 3,
+		"label": "城市",
+		"flag": 1
+	}, {
+		"id": 510,
+		"cnname": "密克罗尼西亚联邦",
+		"enname": "Federated States Of Micronesia",
+		"photo": "http://pic4.qyer.com/album/user/315/39/QkhQQRMFYQ/index/420x630",
+		"count": 4,
+		"label": "城市",
+		"flag": 1
+	}, {
+		"id": 10437,
+		"cnname": "瑙鲁",
+		"enname": "Nauru",
+		"photo": "",
+		"count": 0,
+		"label": "旅行地",
+		"flag": 2
+	}, {
+		"id": 1064,
+		"cnname": "纽埃",
+		"enname": "Niue",
+		"photo": "http://pic1.qyer.com/album/user/411/8/RUhUQhICYw/index/420x630",
+		"count": 1,
+		"label": "城市",
+		"flag": 1
+	}, {
+		"id": 1428,
+		"cnname": "皮特凯恩群岛",
+		"enname": "Pitcairn Islands",
+		"photo": "http://pic1.qyer.com/album/user/813/63/SUhWRBkFYA/index/420x630",
+		"count": 1,
+		"label": "城市",
+		"flag": 1
+	}, {
+		"id": 526,
+		"cnname": "萨摩亚",
+		"enname": "Samoa",
+		"photo": "http://pic3.qyer.com/album/185/63/910096/index/420x630",
+		"count": 3,
+		"label": "城市",
+		"flag": 1
+	}, {
+		"id": 543,
+		"cnname": "所罗门群岛",
+		"enname": "Solomon Islands",
+		"photo": "http://pic2.qyer.com/album/user/315/47/QkhQRh0DYQ/index/420x630",
+		"count": 9,
+		"label": "城市",
+		"flag": 1
+	}, {
+		"id": 547,
+		"cnname": "汤加",
+		"enname": "Tonga",
+		"photo": "http://pic1.qyer.com/album/157/52/395337/index/420x630",
+		"count": 6,
+		"label": "城市",
+		"flag": 1
+	}, {
+		"id": 10440,
+		"cnname": "托克劳",
+		"enname": "Tokelau",
+		"photo": "",
+		"count": 0,
+		"label": "旅行地",
+		"flag": 2
+	}, {
+		"id": 551,
+		"cnname": "图瓦卢",
+		"enname": "Tuvalu",
+		"photo": "http://pic3.qyer.com/album/143/48/1990890/index/420x630",
+		"count": 1,
+		"label": "城市",
+		"flag": 1
+	}, {
+		"id": 553,
+		"cnname": "瓦利斯群岛和富图纳群岛",
+		"enname": "Wallis & Futuna",
+		"photo": "http://pic1.qyer.com/album/user/315/48/QkhQRhIPYA/index/420x630",
+		"count": 3,
+		"label": "城市",
+		"flag": 1
+	}, {
+		"id": 554,
+		"cnname": "瓦努阿图",
+		"enname": "Vanuatu",
+		"photo": "http://pic2.qyer.com/album/user/315/49/QkhQRhMEZw/index/420x630",
+		"count": 7,
+		"label": "城市",
+		"flag": 1
+	}, {
+		"id": 563,
+		"cnname": "新喀里多尼亚",
+		"enname": "New Caledonia",
+		"photo": "http://pic.qyer.com/album/user/315/83/QkhQShkEaQ/index/420x630",
+		"count": 3,
+		"label": "城市",
+		"flag": 1
+	}
+]

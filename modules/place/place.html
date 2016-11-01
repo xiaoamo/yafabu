@@ -1,3 +1,38 @@
-<h2>我是第三个页面</h2>
+<div id="place" ng-controller="placeController">
+	<section class="place_search">
+		<div ng-click="changesearch()"></div>
+	</section>
+	<div class="place_main">
+		<div class="place_left">
+			<li ng-click="tab('01')">热门</li>
+			<li ng-click="tab('02')">国内</li>
+			<li ng-click="tab('03')">亚洲</li>
+			<li ng-click="tab('04')">欧洲</li>
+			<li ng-click="tab('05')">北美</li>
+			<li ng-click="tab('06')">南美</li>
+			<li ng-click="tab('07')">大洋洲</li>
+			<li ng-click="tab('08')">非洲</li>
+			<li ng-click="tab('09')">南极洲</li>
+		</div>
+		<div class="place_right" >
+			<div>
+				<li ng-repeat="placecountry in data1">
+					<img ng-src="{{placecountry.photo}}" alt="" />
+					<h6 class="cnname">{{placecountry.cnname}}<br>
+						<span>{{placecountry.enname}}</span>
+					</h6>
+				</li>
+			</div>
+		</div>
+	</div>
+	<div class="placehide">
+		<div class="place_top">
+			<input type="text" placeholder="搜索国家/城市"/>
+			<span>取消</span>
+		</div>
+		<div class="place_empty" ng-click="chengein()"></div>
+	</div>
+	
+</div>
 
 

@@ -1,0 +1,67 @@
+[
+	{
+		"id": 11,
+		"cnname": "中国",
+		"enname": "China",
+		"photo": "http://site.qyer.com/uploadfile/2014/0417/20140417012348768.jpg",
+		"count": 40,
+		"label": "城市",
+		"flag": 1
+	}, {
+		"id": 215,
+		"cnname": "泰国",
+		"enname": "Thailand",
+		"photo": "http://site.qyer.com/uploadfile/2014/0411/20140411062241479.jpg",
+		"count": 99,
+		"label": "城市",
+		"flag": 1
+	}, {
+		"id": 14,
+		"cnname": "日本",
+		"enname": "Japan",
+		"photo": "http://site.qyer.com/uploadfile/2014/0411/20140411060609941.jpg",
+		"count": 345,
+		"label": "城市",
+		"flag": 1
+	}, {
+		"id": 213,
+		"cnname": "马来西亚",
+		"enname": "Malaysia",
+		"photo": "http://site.qyer.com/uploadfile/2014/0411/20140411062121492.jpg",
+		"count": 144,
+		"label": "城市",
+		"flag": 1
+	}, {
+		"id": 233,
+		"cnname": "韩国",
+		"enname": "South Korea",
+		"photo": "http://site.qyer.com/uploadfile/2014/0411/20140411062418488.jpg",
+		"count": 38,
+		"label": "城市",
+		"flag": 1
+	}, {
+		"id": 62,
+		"cnname": "新加坡",
+		"enname": "Singapore",
+		"photo": "http://site.qyer.com/uploadfile/2014/0411/20140411062502402.jpg",
+		"count": 1500,
+		"label": "旅行地",
+		"flag": 2
+	}, {
+		"id": 219,
+		"cnname": "柬埔寨",
+		"enname": "Cambodia",
+		"photo": "http://site.qyer.com/uploadfile/2014/0411/20140411062340933.jpg",
+		"count": 18,
+		"label": "城市",
+		"flag": 1
+	}, {
+		"id": 216,
+		"cnname": "越南",
+		"enname": "Vietnam",
+		"photo": "http://pic4.qyer.com/album/13c/9b/1929169/index/420x630",
+		"count": 49,
+		"label": "城市",
+		"flag": 1
+	}
+]
