@@ -1,0 +1,52 @@
+.cityWalk{width: 100%;background: #dee3e7;}
+.cityWalk .cityWalkHead{width: 100%;height: 3.3rem;background-image: linear-gradient(to right,#4acb73,#10bea5);position: relative;}
+.cityWalk .cityWalkHead i{color: white;font-size: 1.5rem;position: absolute;top: 0.9rem;left: 0.9rem;}
+.cityWalk .cityWalkHead input{width: 20.3rem;height: 2.2rem;border-radius: 2.2rem;outline: none;background-image: linear-gradient(to right,#42ba73,#10b294);position: absolute;top: 0.5rem;left: 3.4rem;border: 0.1rem solid transparent;padding-left: 8rem;color: #b5e7d6;}
+.cityWalk .cityWalkHead span{color: #b5e7d6;font-size: 1.1rem;position: absolute;top: 1rem;left: 10rem;z-index: 1;}
+.cityWalk .cityWalkHead p{color: white;font-size: 1rem;position: absolute;top: 1.1rem;right: 0.8rem;display: none;}
+.cityWalk .cityWalkHead .empty{width: 100%;height: 39.5rem;background: black;opacity: 0.2;position: absolute;top: 3.3rem;z-index: 1;display: none;}
+
+.cityWalk .cityWalkNav{width: 100%;height: 3rem;background: white;}
+.cityWalk .cityWalkNav ul{width: 100%;height: 100%;}
+.cityWalk .cityWalkNav ul li{width: 25%;height: 100%;float: left;position: relative;}
+.cityWalk .cityWalkNav ul li p{font-size: 0.9rem;color: #4a4d4a;text-align: center;line-height: 3rem;}
+.cityWalk .cityWalkNav ul li span{border: 0.3rem solid transparent;border-top: 0.3rem solid #4a4d4a;position: absolute;top: 1.3rem;left: 5rem;}
+.cityWalk .cityWalkNav ul li i{color: #42cb94;position: absolute;top: 1rem;left: 1.4rem;}
+
+.cityWalk .cityWalkNav ul li .details{width: 400%;background: white;position: absolute;top: 3.1rem;padding: 0 1.3rem;z-index: 1;}
+.cityWalk .cityWalkNav ul li .details .titleHead{width: 22.4rem;height: 2.6rem;border: 0.1rem solid #a5a6a5;border-radius: 0.2rem;margin: 1.4rem 0;}
+.cityWalk .cityWalkNav ul li .details .titleHead p{color: #4a5152;text-align: center;line-height: 2.6rem;font-size: 1rem;}
+.cityWalk .cityWalkNav ul li .details .content{width: 100%;margin-bottom: 1.4rem;}
+.cityWalk .cityWalkNav ul li .details .content h4{font-size: 0.9rem;font-weight: 400;color: #7b797b;}
+.cityWalk .cityWalkNav ul li .details .content .min{width: 7rem;height: 2.4rem;border: 0.1rem solid #a5a6a5;border-radius: 0.2rem;display: inline-block;margin: 0.7rem 0.7rem 0 0;}
+.cityWalk .cityWalkNav ul li .details .content .min:nth-child(4){margin-right: 0;}
+.cityWalk .cityWalkNav ul li .details .content .min:nth-child(7){margin-right: 0;}
+.cityWalk .cityWalkNav ul li .details .content .min:nth-child(10){margin-right: 0;}
+.cityWalk .cityWalkNav ul li .details .content .min p{color: #4a5152;text-align: center;line-height: 2.4rem;font-size: 0.9rem;}
+
+.cityWalk .cityWalkNav ul li .deta{width: 400%;height: 36.3rem;background: white;position: absolute;top: 3.1rem;padding: 0 1rem;left: -300%;z-index: 1;}
+.cityWalk .cityWalkNav ul li .deta ul{width: 100%;}
+.cityWalk .cityWalkNav ul li .deta ul li{width: 100%;height: 3.4rem;border-bottom: 0.1rem solid #efebef;position: relative;}
+.cityWalk .cityWalkNav ul li .deta ul li i{color: #4a4d4a;font-size: 1rem;position: absolute;top: 1.2rem;left: 0.5rem;}
+.cityWalk .cityWalkNav ul li .deta ul li p{color: #4a4d4a;font-size: 1rem;position: absolute;top: 0.2rem;left: 2rem;}
+.cityWalk .cityWalkNav ul li .deta ul li:first-child i{color: #42cb94;}
+.cityWalk .cityWalkNav ul li .deta ul li:first-child p{color: #42cb94;}
+.active{color: #42cb94!important;}
+.nomal{color: #4a4d4a!important;}
+
+.cityWalk .cityWalkList{width: 100%;height: 8.6rem;padding: 0 0.7rem;border-bottom: 0.1rem solid #dee3e7;background: white;}
+.cityWalk .cityWalkList .img{display: inline-block;width: 8rem;height: 5.8rem;margin-top: 1.4rem;}
+.cityWalk .cityWalkList .img img{width: 100%;height: 100%;}
+.cityWalk .cityWalkList .content{display: inline-block;position: relative;width: 14.2rem;height: 5.8rem;margin-left: 1rem;vertical-align: bottom;}
+.cityWalk .cityWalkList .content .title{width: 3.7rem;height: 0.8rem;border-right: 0.1rem solid #d6d3d6;position: absolute;top: 0;}
+.cityWalk .cityWalkList .content .title p{font-size: 0.8rem;color: #42cb94;line-height: 0.8rem;}
+.cityWalk .cityWalkList .content .adress{width: 3.5rem;height: 0.8rem;position: absolute;top: -0.2rem;left: 4.2rem;}
+.cityWalk .cityWalkList .content .adress i{font-size: 0.8rem;color: #42cb94;line-height: 0.8rem;}
+.cityWalk .cityWalkList .content .adress p{font-size: 0.8rem;display: inline-block;color: #7b797b;margin-left: 0.3rem;line-height: 0.8rem;}
+.cityWalk .cityWalkList .content .titleName{width: 100%;height: 3.2rem;position: absolute;top: 1rem;}
+.cityWalk .cityWalkList .content .titleName p{display: -webkit-box;-webkit-box-orient: vertical;-webkit-line-clamp: 2;white-space: pre-wrap;overflow: hidden;line-height: 1.5rem;font-size: 1.1rem;color: #4a5152;}
+.cityWalk .cityWalkList .content .soldCount{width: 4rem;height: 0.9rem;position: absolute;bottom: 0;}
+.cityWalk .cityWalkList .content .soldCount p{font-size: 0.8rem;line-height: 0.9rem;color: #a5a6a5;}
+.cityWalk .cityWalkList .content .price{width: 4.5rem;height: 1.2rem;position: absolute;bottom: 0.3rem;right: 0;}
+.cityWalk .cityWalkList .content .price p{font-size: 0.8rem;color: #a5a6a5;}
+.cityWalk .cityWalkList .content .price p span{font-size: 1.6rem;color: #ff7563;}

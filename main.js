@@ -17,7 +17,8 @@ require.config({
 		citycardController:"modules/citycard/citycardController",
 		searchAllController:"modules/searchAll/searchAllController",
 		jqueryFly:"./libs/jquery.fly",
-		swiper:"./libs/swiper-3.3.1.min"
+		swiper:"./libs/swiper-3.3.1.min",
+		"me-lazyload":"./libs/me-lazyload"
 	},
 	 shim: {
 	 	angular: {
@@ -33,12 +34,16 @@ require.config({
         swiper:{
         	deps:['jquery'],
         	exports: 'swiper'
+        },
+        "me-lazyload":{
+        	deps:['angular'],
+        	exports: 'me-lazyload'
         }
-        
 	 }
 });
 
-require(['jquery','swiper','angular','index','router','HomeController','cityfunController','citywalkController','MineController','placeController','CarrentalController','citycardController','searchAllController'],function(jquery,swiper,angular,index){
+
+require(['jquery','swiper','angular','index',"me-lazyload",'router','HomeController','cityfunController','citywalkController','MineController','placeController','CarrentalController','citycardController','searchAllController'],function(jquery,swiper,angular,index,meLazyload){
 	index.index();
 	angular.bootstrap(document, ['webapp']);
 })

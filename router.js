@@ -1,7 +1,5 @@
 define(['angular', 'angular-route'], function (angular){
-	var app = angular.module('webapp', [
-        'ngRoute'
-    ]);
+	var app = angular.module('webapp',['ngRoute',"me-lazyload"]);
 	
 	 app.config(['$routeProvider', '$controllerProvider',
 	 	function($routeProvider, $controllerProvider){

@@ -1,2 +1,79 @@
-<h1 id="cityfun">我是隐藏在第一个页面的子页面</h1>
-<a href="#/citywalk">跳转到citywalk页面</a>
+<div class="cityFun">
+	<div class="funHead" ng-hide="!flag">
+		<div class="back"></div>
+		<div class="search" ng-click="searchFun()"></div>
+	</div>
+	<div class="headEmpty" ng-hide="flag"></div>
+	<div class="reallySearch" ng-hide="flag">
+		<div class="top">
+			<i class="fa fa-search"></i>
+			<input type="text" placeholder="搜索目的地/折扣/关键字" />
+			<p>搜索</p>
+		</div>
+		<div class="empty" ng-click="searchFun()"></div>
+	</div>
+	<div class="funBanner">
+		<ul>
+			<li ng-repeat="x in bannerData">
+				<img ng-src="{{x.cover}}"/>
+			</li>
+			<li>
+				<img ng-src="{{bannerData1}}"/>
+			</li>
+		</ul>
+		<div class="point">
+			<div></div>
+			<div></div>
+			<div></div>
+			<div></div>
+			<div></div>
+		</div>
+	</div>
+	<div class="funType">
+		<div class="line"></div>
+		<div class="district">
+			<div class="title" ng-repeat="x in typeData" ng-click="click11(x)">
+				<p class="titleName">{{x.tab_name}}</p>
+				<div class="bottom"></div>
+				<div class="country">
+					<div ng-repeat="y in x.blocks">
+						<p>{{y.name}}</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="funTrip">
+		<div class="tripName">
+			<p>出行必备</p>
+		</div>
+		<div class="tripContent">
+			<ul>
+				<li ng-repeat="x in tripData">
+					<img lazy-src="{{x.cover}}"/>
+				</li>
+			</ul>
+		</div>
+	</div>
+	<div class="funList" ng-repeat="x in listData">
+		<div class="funListHead">
+			<img lazy-src="{{x.img_url}}"/>
+			<h4>{{x.title}}</h4>
+			<p>{{x.subheading}}</p>
+			<i class="fa fa-angle-right"></i>
+		</div>
+		<div class="funListContent">
+			<ul>
+				<li class="has" ng-repeat="y in x.lastm_data">
+					<img lazy-src="{{y.pic}}"/>
+					<p class="contentName">{{y.title}}</p>
+					<p class="price"><span>{{price(y)}}</span>元起</p>
+				</li>
+				<li class="more">
+					<div class="fa fa-folder-open"></div>
+					<p>查看更多</p>
+				</li>
+			</ul>
+		</div>
+	</div>
+</div>

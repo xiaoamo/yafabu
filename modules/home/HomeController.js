@@ -43,6 +43,10 @@ define(['router','css!modules/home/home.css','swiper'], function (app,css,swiper
 				window.location.href = window.location.href.split('#')[0]+'#/Carrental';	
 			}else if(i==3){
 				window.location.href = window.location.href.split('#')[0]+'#/citycard';	
+			}else if(i==2){
+				window.location.href = window.location.href.split('#')[0]+'#/cityfun';	
+			}else if(i==6){
+				window.location.href = window.location.href.split('#')[0]+'#/citywalk';	
 			}
 		}
 		
