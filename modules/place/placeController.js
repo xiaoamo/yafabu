@@ -37,6 +37,9 @@ define(['router','css!modules/place/place.css'],function(app,css){
 	 		$('.place_search').css('margin-top','0')
 	 		$('.placehide').hide();
 	 	}
+		$scope.suggestdiv = false;
+
+	 
 	 	
 	 	
 	 }])

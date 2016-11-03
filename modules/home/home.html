@@ -2,7 +2,7 @@
 	<div class="banner">
 		<div class="home_top">
 			<span><img src="img/saoyisao.png"/></span>
-			<input type="text" placeholder="搜索目的地/折扣/关键字"/>
+			<input type="text" placeholder="搜索目的地/折扣/关键字" ng-focus="searchGo()"/>
 			<span><img src="img/xiaoxi.png"/></span>
 		</div>
 		<div class="swiper-container">
@@ -18,10 +18,8 @@
 	<!--导航-->
 	<div id="home_nav">
 		<div>
-			<li ng-repeat="x in datanav">
-				<!--<img src="img/home_src.png"/>-->
+			<li id="Jumpto" ng-repeat="x in datanav" ng-click="Jumptocar(x)">
 				{{x.name}}
-				<!--<p><img ng-src="{{x.icon}}"/></p>-->
 			</li>
 		</div>
 	</div>
@@ -61,8 +59,10 @@
 			<div class="hot_pic"><img ng-src="{{hot.img}}" alt="" /></div>
 			<div class="homescroll scrolllist">
 			   <div>
-				   <li id="homehot_list">
-				   	<img ng-src="{{hot.elite.title}}" alt="" />
+				   <li id="homehot_list" ng-repeat="y in hot.elite">
+				   	<img ng-src="{{y.pic}}" alt=""/>
+				   	<p>{{y.title}}</p>
+				   	<span><em>{{y.productType}}</em>元起</span>
 				   </li>
 			   </div>
 			</div>
@@ -72,13 +72,41 @@
 		<h5>猜你喜欢</h5>
 		<div ng-repeat="like in love">
 			<div class="lovetravel">
-				<img ng-src="{{like.pic}}"/>
+				<img ng-src="{{like.pic}}" data-original="{{y.pic}}" class="lazy"/>
 			</div>
 			<p class="lovetitle">{{like.title}}</p>
 			<span class="loveSalecount">{{like.sale_count}}件已售</span>
 			<span class="lovelistprice">{{like.list_price}}<i>元起</i></span>
 			<span class="loveshortname">{{like.cate_short_name}}</span>
 		</div>
-		<p class="home_footer">查看全部折扣商品</p>
+		<p class="home_footer" ng-click="hometocitywalk()" >查看全部折扣商品</p>
 	</section>
 </div>
+<!--搜索界面-->
+	<div id="homesearch" class="animated bounceInUp">
+		<div class="place_top">
+			<input type="text" placeholder="搜索目的地/折扣/关键字" />
+			<span ng-click="searchOut()">取消</span>
+		</div>
+		<!--搜索-->
+		<p class="hotsearch">热门搜索</p>
+		<div class="citycountry">
+			<span>日本</span>
+			<span>韩国</span>
+			<span>泰国</span>
+			<span>三亚</span>
+			<span>巴厘岛</span>
+			<span>马尔代夫</span>
+			<span>台湾</span>
+			<span>厦门</span>
+			<span>美国</span>
+			<span>东京</span>
+			<span>大阪</span>
+			<span>香港</span>
+			<span>新加坡</span>
+			<span>澳大利亚</span>
+		</div>
+	</div>
+	
+
+

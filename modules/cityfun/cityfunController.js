@@ -116,3 +116,4 @@ define(['router','css!modules/cityfun/cityfun.css'],function(app,css){
 		};
 	}]);
 });
+
