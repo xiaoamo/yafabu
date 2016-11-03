@@ -10,19 +10,18 @@ define(['router','css!modules/citywalk/citywalk.css'],function(app,css){
 		};
 	}]);
 	return app.controller("citywalkController",["$scope","plateTypeService","cityWalkListService",function ($scope,plateTypeService,cityWalkListService){
+		$scope.searchFlag=true;
 		$scope.searchFun=function(){
+			$scope.searchFlag=false;
 			$(".cityWalk .cityWalkHead input").css("left","1.4rem");
 			$(".cityWalk .cityWalkHead span").css("left","8rem");
-			$(".cityWalk .cityWalkHead i").hide();
-			$(".cityWalk .cityWalkHead p").show();
-			$(".cityWalk .cityWalkHead .empty").show();
+			$(".cityWalk").css("overflow","hidden");
 		};
 		$scope.emptyFun=function(){
+			$scope.searchFlag=true;
 			$(".cityWalk .cityWalkHead input").css("left","");
 			$(".cityWalk .cityWalkHead span").css("left","");
-			$(".cityWalk .cityWalkHead i").show();
-			$(".cityWalk .cityWalkHead p").hide();
-			$(".cityWalk .cityWalkHead .empty").hide();
+			$(".cityWalk").css("overflow","");
 		};
 		$scope.flag1=true;
 		$scope.flag2=true;
