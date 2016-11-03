@@ -27,7 +27,15 @@
 			"modules/mine/iconfonts.css",
 			"modules/mine/mine.css",
 			"css/swiper-3.3.1.min.css",
-			"main.js"
+			"main.js",
+			"img/zuishijie.jpg",
+			"modules/Carrental/Carrental.css",
+			"modules/Carrental/CarrentalController.js",
+			"modules/searchAll/searchAll.css",
+			"css/animate.css",
+			"modules/searchAll/searchAllController.js",
+			"modules/citycard/citycardController.js",
+			"modules/citycard/citycard.css"
 		]
 	}
 }

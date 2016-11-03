@@ -22,10 +22,23 @@ define(['angular', 'angular-route'], function (angular){
                     templateUrl: 'modules/cityfun/cityfun.html',
                     controller: 'cityfunController'
                 }).
-                 when('/citywalk', {
+                when('/citywalk', {
                     templateUrl: 'modules/citywalk/citywalk.html',
                     controller: 'citywalkController'
                 }).
+                when('/Carrental', {
+                    templateUrl: 'modules/Carrental/Carrental.html',
+                    controller: 'CarrentalController'
+                }).
+                when('/citycard', {
+                    templateUrl: 'modules/citycard/citycard.html',
+                    controller: 'citycardController'
+                }).
+                when('/searchAll', {
+                    templateUrl: 'modules/searchAll/searchAll.html',
+                    controller: 'searchAllController'
+                }).
+                
                otherwise({
                     redirectTo: '/home'
                 }); 	

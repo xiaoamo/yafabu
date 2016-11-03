@@ -1,0 +1,46 @@
+#Carrental{
+	width: 100%;
+	height: 100%;
+	position: relative;
+}
+#Carrental>#Carrentalmain{
+	width: 100%;
+	margin-top: -1.8rem;
+	background: #FFFFFF;
+	position: relative;
+}
+.fixedcar{
+	position: fixed;
+	top: 0;
+	left: 0;
+}
+.fixedcar img{
+	width: 100%;
+	height: 100%;
+}
+#Carrental img{
+	width: 100%;
+}
+#Carrental p{
+	width: 45%;
+    height: 2rem;
+    border: 1px solid #00B081;
+    color: #00B081;
+    font-size: 0.7rem;
+    text-align: center;
+    margin: 0.5rem auto;
+    line-height: 2rem;
+	
+}
+.footercar{
+	width: 100%;
+	height: 3rem;
+}
+#fanhui{
+	position: fixed;
+    top: 0.8rem;
+    left: 0.4rem;
+    width: 2rem;
+    height: 1.5rem;
+    z-index: 5;
+}

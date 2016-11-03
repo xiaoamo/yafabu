@@ -13,6 +13,9 @@ require.config({
 		citywalkController:"modules/citywalk/citywalkController",
 		MineController:"modules/mine/MineController",
 		placeController:"modules/place/placeController",
+		CarrentalController:"modules/Carrental/CarrentalController",
+		citycardController:"modules/citycard/citycardController",
+		searchAllController:"modules/searchAll/searchAllController",
 		jqueryFly:"./libs/jquery.fly",
 		swiper:"./libs/swiper-3.3.1.min"
 	},
@@ -35,7 +38,7 @@ require.config({
 	 }
 });
 
-require(['jquery','swiper','angular','index','router','HomeController','cityfunController','citywalkController','MineController','placeController'],function(jquery,swiper,angular,index){
+require(['jquery','swiper','angular','index','router','HomeController','cityfunController','citywalkController','MineController','placeController','CarrentalController','citycardController','searchAllController'],function(jquery,swiper,angular,index){
 	index.index();
 	angular.bootstrap(document, ['webapp']);
 })

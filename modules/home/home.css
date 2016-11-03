@@ -1,3 +1,7 @@
+/*让滚动条x轴滚动的时候消失  */
+::-webkit-scrollbar{
+display:none;
+}
 /*banner图部分*/
 #home{
 	width: 100%;
@@ -113,12 +117,12 @@
 	margin-bottom: 0.9rem;
 }
 .homeHistory div{
-	width: 160%;
+	width: 170%;
 	height: 100%;
 	padding: 2% 0 0 3%;
 }
 .homeHistory span{
-	font-size: 0.4rem;
+	font-size: 0.7rem;
 	border: 1px solid #d4d6d5;
 	border-radius: 0.9rem;
 	margin-right:0.5%;
@@ -133,7 +137,7 @@
     width: 1rem;
     height: 1rem;
     background: url(../../img/homeclock.png) no-repeat;
-    vertical-align: -20%;
+    vertical-align: -25%;
     margin-right: 1.3%;
 }
 .homeHistory .active{
@@ -220,6 +224,7 @@
 .homehot>div{
 	width: 100%;
 	height: 100%;
+	margin-bottom: 1rem;
 }
 .homehot .hot_pic{
 	width: 100%;
@@ -236,32 +241,36 @@
 	height:10rem;
 }
 .homehot>div .scrolllist>div{
-	width: 180%;
-	height: 100%;
+	width: 200%;
+	height: 102%;
 }
 #homehot_list{
-	width: 20%;
+	width: 15%;
 	height: 100%;
-	background: hotpink;
 	display: inline-block;
+	margin-left: 1%;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#homehot_list img{
+	width: 100%;
+	height: 60%;
+}
+#homehot_list p{
+	font-size: 0.9rem;
+	color: #474d4d;
+	display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+#homehot_list span{
+	color: #A4A6A5;
+	font-size: 0.7rem;
+}
+#homehot_list span em{
+	font-size: 1.1rem;
+	color: #FF7163;
+	font-style: normal;
+}
 /*猜你喜欢*/
 .Lovely{
 	padding: 2% 2%;
@@ -323,4 +332,46 @@
     text-align: center;
     margin: 1.5rem auto 4rem;
     line-height: 2rem;
+}
+.lazy{
+	/*background: url(../../img/loading.gif)no-repeat;*/
+	background: blue;
+}
+
+
+
+/*搜索界面*/
+#homesearch{
+	width: 100%;
+	height: 100%;
+	background: white;
+	position: fixed;
+	top: 0;
+	left:0;
+	z-index: 101;
+	display: none;
+}
+#homesearch>.place_top{
+	border-bottom: 1px solid #EAEAEA;
+	height: 9%;
+}
+.hotsearch{
+	width: 100%;
+    font-size: 0.9rem;
+    height: 2.3rem;
+    padding: 2% 3%;
+    color: #a4a4a4;
+}
+.citycountry{
+	width: 100%;
+	height: 100%;
+	padding: 1% 6% 0 3%;
+}
+.citycountry span{
+	padding: 0.5% 3%;
+    border: 1px solid #d1d3d2;
+    display: inline-block;
+    font-size: 0.9rem;
+    color: #d1d3d2;
+    margin: 0.3rem 0.5rem;
 }

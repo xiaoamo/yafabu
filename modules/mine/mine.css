@@ -1,0 +1,90 @@
+#mine{
+	width: 100%;
+	height: 100%;
+	position: relative;
+}
+#mine h2{
+	width: 100%;
+	height: 27%;
+}
+#mine h2 img{
+	width: 100%;
+	height: 100%;
+}
+.mine_main{
+	width: 100%;
+	height: 73%;
+	background: url(../../img/mine_main.jpg) no-repeat;
+	background-size: 100%;
+}
+.minelist{
+    position: absolute;
+    top: 23.5rem;
+    width: 100%;
+    height: 2.5rem;
+}
+.minelist2{
+	position: absolute;
+    top: 27rem;
+    width: 100%;
+    height: 2.5rem;
+}
+.minelist3{
+	position: absolute;
+    top: 31rem;
+    width: 100%;
+    height: 2.5rem;
+}
+
+
+
+
+
+.mine_erji{
+	width: 100%;
+	position: absolute;
+	top: 0;
+	display: none;
+}
+.mine_erji>img,.mine_more>img{
+	width: 100%;
+}
+.mine_erji>div,.mine_more>div{
+	width: 100%;
+	height: 3rem;
+	background: url(../../img/homebg.jpg);
+	padding-left: 1%;
+}
+.mine_erji>div>span:first-child,.mine_more>div>span:first-child{
+	display: inline-block;
+	width: 9%;
+	height: 50%;
+	margin-top: 0.6rem;
+}
+.mine_erji>div>span:first-child img,.mine_more>div>span:first-child img{
+	width: 100%;
+	height: 100%;
+	vertical-align: middle;
+}
+
+.mine_erji>div>span:last-child{
+	display: inline-block;
+    text-align: center;
+    line-height: 3rem;
+    margin-left: 5.7rem;
+    color: #FFFFFF;
+}
+.mine_more{
+	width: 100%;
+	position: absolute;
+	top: 0;
+	z-index: 101;
+	display: none;
+}
+.mine_more>div>span:last-child{
+	display: inline-block;
+    text-align: center;
+    line-height: 3rem;
+    margin-left: 7.7rem;
+    color: #FFFFFF;
+}
