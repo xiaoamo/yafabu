@@ -1,93 +1,15 @@
+//按照格式更改下  
+
 {
     "status": 1,
     "info": "",
     "times": 0,
     "data": [
-    	{
-    		"id": 70,
-            "cnname": "热门",
+        {
+            "id": 10,
+            "cnname": "亚洲",
             "enname": "Asia",
-            "country": [
-                {
-                    "id": 186,
-                    "cnname": "法国",
-                    "enname": "France",
-                    "photo": "http://site.qyer.com/uploadfile/2014/0411/20140411062121492.jpg",
-                    "count": 433,
-                    "label": "城市",
-                    "flag": 1
-                },
-                {
-                    "id": 189,
-                    "cnname": "意大利",
-                    "enname": "Italy",
-                    "photo": "http://site.qyer.com/uploadfile/2014/0411/20140411060737511.jpg",
-                    "count": 332,
-                    "label": "城市",
-                    "flag": 1
-                },
-                {
-                    "id": 15,
-                    "cnname": "德国",
-                    "enname": "Germany",
-                    "photo": "http://site.qyer.com/uploadfile/2014/0414/20140414032951277.jpg",
-                    "count": 412,
-                    "label": "城市",
-                    "flag": 1
-                },
-                {
-                    "id": 182,
-                    "cnname": "西班牙",
-                    "enname": "Spain",
-                    "photo": "http://site.qyer.com/uploadfile/2014/0414/20140414030731883.jpg",
-                    "count": 142,
-                    "label": "城市",
-                    "flag": 1
-                },
-                {
-                    "id": 13,
-                    "cnname": "英国",
-                    "enname": "UK",
-                    "photo": "http://site.qyer.com/uploadfile/2014/0411/20140411060549863.jpg",
-                    "count": 277,
-                    "label": "城市",
-                    "flag": 1
-                },
-                {
-                    "id": 524,
-                    "cnname": "瑞士",
-                    "enname": "Switzerland",
-                    "photo": "http://site.qyer.com/uploadfile/2014/0411/20140411064701227.jpg",
-                    "count": 169,
-                    "label": "城市",
-                    "flag": 1
-                },
-                {
-                    "id": 200,
-                    "cnname": "荷兰",
-                    "enname": "Netherlands",
-                    "photo": "http://site.qyer.com/uploadfile/2014/0411/20140411060910448.jpg",
-                    "count": 104,
-                    "label": "城市",
-                    "flag": 1
-                },
-                {
-                    "id": 198,
-                    "cnname": "奥地利",
-                    "enname": "Austria",
-                    "photo": "http://site.qyer.com/uploadfile/2014/0411/20140411060835208.jpg",
-                    "count": 75,
-                    "label": "城市",
-                    "flag": 1
-                }
-            ]
-            
-    	},
-		{	
-    		"id": 40,
-            "cnname": "国内",
-            "enname": "Asia",
-    		"country": [
+            "hot_country": [
                 {
                     "id": 11,
                     "cnname": "中国",
@@ -160,12 +82,7 @@
                     "label": "城市",
                     "flag": 1
                 }
-            ]
-    	},
-    	{
-            "id": 10,
-            "cnname": "亚洲",
-            "enname": "Asia",
+            ],
             "country": [
                 {
                     "id": 401,
@@ -990,7 +907,7 @@
         },
         {
             "id": 234,
-            "cnname": "北美",
+            "cnname": "北美洲",
             "enname": "North America",
             "hot_country": [
                 {
@@ -1377,7 +1294,7 @@
         },
         {
             "id": 235,
-            "cnname": "南美",
+            "cnname": "南美洲",
             "enname": "South America",
             "hot_country": [
                 {

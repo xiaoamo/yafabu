@@ -1,4 +1,83 @@
-﻿
-
-<h1>我是隐藏在第一个页面的第二个子页面</h1>
-<h2>sdfndskjfsndkjfc</h2>
+<div class="cityWalk">
+	<div class="cityWalkHead">
+		<i class="fa fa-arrow-left"></i>
+		<span class="fa fa-search"></span>
+		<input type="text" placeholder="按关键字搜索" ng-click="searchFun()"/>
+		<p>搜索</p>
+		<div class="empty" ng-click="emptyFun()"></div>
+	</div>
+	<div class="cityWalkNav">
+		<ul>
+			<li>
+				<p ng-click="hideorshow1()">citywalk</p>
+				<span></span>
+				<div class="details" ng-hide="flag1">
+					<div class="titleHead">
+						<p>{{plataTypeTitleName}}</p>
+					</div>
+					<div class="content" ng-repeat="x in plateTypeData">
+						<h4>{{x.title}}</h4>
+						<div class="min" ng-repeat="y in x.module">
+							<p>{{y.name}}</p>
+						</div>
+					</div>
+				</div>
+			</li>
+			<li>
+				<p>目的地</p>
+				<span></span>
+			</li>
+			<li>
+				<p>筛选</p>
+				<span></span>
+			</li>
+			<li>
+				<i class="fa fa-arrows-v"></i>
+				<p ng-click="hideorshow2()">排序</p>
+				<div class="deta" ng-hide="flag2">
+					<ul>
+						<li ng-click="clickLi(1)">
+							<i class="fa fa-exchange" ng-class="{true:'active',false:'nomal'}[pStyleArr[0]]"></i>
+							<p ng-class="{true:'active',false:'nomal'}[pStyleArr[0]]">综合排序</p>
+						</li>
+						<li ng-click="clickLi(2)">
+							<i class="fa fa-rmb" ng-class="{true:'active',false:'nomal'}[pStyleArr[1]]"></i>
+							<p ng-class="{true:'active',false:'nomal'}[pStyleArr[1]]">销量从高到低</p>
+						</li>
+						<li ng-click="clickLi(3)">
+							<i class="fa fa-long-arrow-up" ng-class="{true:'active',false:'nomal'}[pStyleArr[2]]"></i>
+							<p ng-class="{true:'active',false:'nomal'}[pStyleArr[2]]">价格从低到高</p>
+						</li>
+						<li ng-click="clickLi(4)">
+							<i class="fa fa-long-arrow-down" ng-class="{true:'active',false:'nomal'}[pStyleArr[3]]"></i>
+							<p ng-class="{true:'active',false:'nomal'}[pStyleArr[3]]">价格从高到低</p>
+						</li>
+					</ul>
+				</div>
+			</li>
+		</ul>
+	</div>
+	<div class="cityWalkList" ng-repeat="x in cityWalkListData | orderBy:order">
+		<div class="img">
+			<img lazy-src="{{x.imgurl}}"/>
+		</div>
+		<div class="content">
+			<div class="title">
+				<p>日游体验</p>
+			</div>
+			<div class="adress">
+				<i class="fa fa-map-marker"></i>
+				<p>{{x.address}}</p>
+			</div>
+			<div class="titleName">
+				<p>{{x.title}}</p>
+			</div>
+			<div class="soldCount">
+				<p>{{x.soldCount}}件已售</p>
+			</div>
+			<div class="price">
+				<p><span>{{x.newPrice}}</span>元起</p>
+			</div>
+		</div>
+	</div>
+</div>

@@ -1,3 +1,61 @@
-#cityfun{
-	color: red;
-}
+.cityFun{width: 100%;background: #efefef;height: 44.3rem;}
+.cityFun .funHead{width: 100%;height: 6.7rem;background: url(../../img/funbg.jpg) no-repeat;background-size: 100% 6.7rem;position: relative;}
+.cityFun .funHead .back{width: 1.6rem;height: 1.6rem;position: absolute;top: 0.9rem;left: 0.9rem;}
+.cityFun .funHead .search{width: 21.5rem;height: 2.3rem;position: absolute;bottom: 0.5rem;left: 1.7rem;}
+.cityFun .headEmpty{width: 100%;height: 3.3rem;}
+.cityFun .reallySearch{width: 100%;position: fixed;top: 0;z-index: 1;}
+.cityFun .reallySearch .top{width: 100%;height: 3.3rem;background: white;}
+.cityFun .reallySearch .top i{font-size: 1.2rem;color: #d6d3d6;position: absolute;top: 1rem;left: 2.4rem;z-index: 1;}
+.cityFun .reallySearch .top input{width: 19rem;height: 2.3rem;border: 0.1rem solid #c6c7ce;border-radius: 2.3rem;top: 0.5rem;left: 1.5rem;position: absolute;padding-left: 2.5rem;}
+.cityFun .reallySearch .top p{font-size: 1rem;color: #42cb94;position: absolute;top: 1.1rem;right: 1.5rem;}
+.cityFun .reallySearch .empty{width: 100%;height: 41rem;background: black;opacity: 0.2;position: absolute;top: 3.3rem;}
+
+.cityFun .funBanner{width: 100%;height: 9.2rem;position: relative;overflow: hidden;}
+.cityFun .funBanner ul{width: 600%;height: 100%;position: absolute;}
+.cityFun .funBanner ul li{width: 25rem;height: 100%;float: left;}
+.cityFun .funBanner ul li img{width: 100%;height: 100%;}
+.cityFun .funBanner .point{width: 8rem;height: 1rem;position: absolute;bottom: 0;left: 9.3rem;}
+.cityFun .funBanner .point div{width: 0.5rem;height: 0.5rem;border-radius: 50%;background: white;opacity: 0.5;float: left;margin-right: 1rem;}
+.cityFun .funBanner .point div:first-child{opacity: 1;}
+
+.cityFun .funType{width: 100%;height: 13rem;background: white;position: relative;margin-bottom: 0.9rem;}
+.cityFun .funType .line{width: 100%;height: 0.2rem;background: #e7e3e7;position: absolute;top: 2.8rem;}
+.cityFun .funType .district{width: 100%;height: 100%;}
+.cityFun .funType .district .title{width: 25%;height: 2.8rem;float: left;position: relative;}
+.cityFun .funType .district .title .titleName{font-size: 0.9rem;color: #182021;text-align: center;line-height: 2.8rem;}
+.cityFun .funType .district .title .bottom{width: 1.3rem;height: 0.2rem;background: #42cb94;position: absolute;bottom: 0;left: 2.5rem;display: none;}
+.cityFun .funType .district .title:first-child .bottom{display: block;}
+.cityFun .funType .district .title .country{width: 400%;height: 10rem;position: absolute;top: 3rem;display: none;}
+.cityFun .funType .district .title:first-child .country{display: block;}
+.cityFun .funType .district .title:nth-child(2) .country{left: -100%;}
+.cityFun .funType .district .title:nth-child(3) .country{left: -200%;}
+.cityFun .funType .district .title:nth-child(4) .country{left: -300%;}
+.cityFun .funType .district .title .country div{float: left;width: 5.4rem;height: 2.2rem;border: 0.2rem solid #d6d3d6;margin: 0.9rem 0 0 0.6rem;}
+.cityFun .funType .district .title .country div p{font-size: 0.9rem;color: #4a5152;text-align: center;line-height: 2.2rem;}
+
+.cityFun .funTrip{width: 100%;height: 8rem;background: white;margin-bottom: 0.9rem;}
+.cityFun .funTrip .tripName{width: 100%;height: 3rem;}
+.cityFun .funTrip .tripName p{font-size: 1.1rem;font-weight: bold;text-align: center;line-height: 3rem;}
+.cityFun .funTrip .tripContent{width: 100%;height: 4rem;overflow: scroll;}
+.cityFun .funTrip .tripContent ul{width: 44.9rem;height: 100%;}
+.cityFun .funTrip .tripContent ul li{width: 7rem;height: 100%;float: left;margin-right: 0.3rem;}
+.cityFun .funTrip .tripContent ul li:first-child{margin-left: 0.7rem;}
+.cityFun .funTrip .tripContent ul li:last-child{margin-right: 0.7rem;}
+.cityFun .funTrip .tripContent ul li img{width: 100%;height: 100%;}
+
+.cityFun .funList{width: 100%;height: 18.8rem;background: white;margin-bottom: 0.9rem;}
+.cityFun .funList .funListHead{width: 100%;height: 6rem;position: relative;}
+.cityFun .funList .funListHead img{width: 6.3rem;height: 100%;position: absolute;top: 0;left: 0;}
+.cityFun .funList .funListHead h4{font-size: 1rem;font-weight: 400;position: absolute;top: 1.9rem;left: 6.4rem;}
+.cityFun .funList .funListHead p{font-size: 0.9rem;color: #a5a6a5;position: absolute;top: 3.9rem;left: 6.4rem;}
+.cityFun .funList .funListHead i{font-size: 1.5rem;color: #a5a6a5;font-weight: bold;position: absolute;top: 1.7rem;right: 1.4rem;}
+.cityFun .funList .funListContent{width: 100%;height: 12.8rem;overflow-x: scroll;overflow-y: hidden;}
+.cityFun .funList .funListContent ul{height: 100%;white-space: nowrap;}
+.cityFun .funList .funListContent ul li{display: inline-block;width: 9.3rem;height: 100%;margin-left: 0.7rem;}
+.cityFun .funList .funListContent ul .has img{width: 100%;height: 6.7rem;}
+.cityFun .funList .funListContent ul li .contentName{width: 100%;display: -webkit-box;-webkit-box-orient: vertical;-webkit-line-clamp: 2;white-space: pre-wrap;overflow: hidden;line-height: 1.5rem;font-size: 1.1rem;}
+.cityFun .funList .funListContent ul li .price{font-size: 0.9rem;color: #a5a6ad;line-height: 1.5rem;}
+.cityFun .funList .funListContent ul li .price span{font-size: 1.5rem;font-weight: bold;color: #ff7563;}
+.cityFun .funList .funListContent ul .more{width: 9.3rem;height: 6.7rem;vertical-align: top;border: 0.1rem solid #efebef;margin-right: 0.7rem;position: relative;}
+.cityFun .funList .funListContent ul .more div{font-size: 1.8rem;color: #42cb94;position: absolute;top: 1.4rem;left: 3.7rem;}
+.cityFun .funList .funListContent ul .more p{font-size: 0.9rem;text-align: center;color: #42cb94;line-height: 9rem;}
