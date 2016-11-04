@@ -238,7 +238,9 @@
 					"css/animate.css",
 					"modules/searchAll/searchAllController.js",
 					"modules/citycard/citycardController.js",
-					"modules/citycard/citycard.css"
+					"modules/citycard/citycard.css",
+					"libs/me-lazyload.js",
+					"css/font-awesome.min.css"
 				],
 				"refer": [],
 				"priority": 0

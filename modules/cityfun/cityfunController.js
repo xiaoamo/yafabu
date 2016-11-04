@@ -115,6 +115,11 @@ define(['router','css!modules/cityfun/cityfun.css'],function(app,css){
 			var num=Math.ceil(obj.list_price*parseFloat(obj.lastminute_des)/10);
 			return num;
 		};
+		$scope.gohome=function(){
+			window.location.href = window.location.href.split('#')[0]+'#/home';
+			$("#tabbar").show();
+		}
+		
 	}]);
 });
 

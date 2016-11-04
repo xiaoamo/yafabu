@@ -1,9 +1,17 @@
 <div id="mine">
-	<h2><img src="img/mine_top.jpg"/></h2>
+	<h2><img lazy-src="img/mine_top.jpg"/></h2>
 	<div class="mine_main"></div>
 	<li class="minelist"></li>
 	<li class="minelist2" ng-click="goerji()"></li>
 	<li class="minelist3" ng-click="gomore()"></li>
+	<li class="minelist4">
+		<span ng-click="gofukuang()"></span>
+		<span ng-click="gosupplement()"></span>
+		<span ng-click="gochuxing()"></span>
+		<span ng-click="goCustomer()"></span>
+	</li>
+	<li class="minelist5" ng-click="goworld()"></li>
+	<li class="minelist6"  ng-click="gofootprint()"></li>
 </div>
 <!--常见问题-->
 <div class="mine_erji" >
@@ -14,10 +22,45 @@
 	<img src="img/Screenshotpro.jpg"/>
 </div>
 <!--更多设置-->
-<div class="mine_more" >
+<div class="mine_more animated fadeInDownBig" >
 	<div>
 		<span ng-click="gomine()"><img src="img/left.png"/></span>
 		<span>更多设置</span>	
 	</div>
 	<img src="img/Screenshotshiezhi.jpg"/>
+</div>
+<!--代付款-->
+<div class="mine_fukuang animated zoomInRight">
+	<div>
+		<span ng-click="gomine()"><img src="img/left.png"/></span>
+		<span>待付款订单</span>	
+	</div>
+	<img src="img/Screenshotdingdang.jpg"/>
+</div>
+<!--这个世界-->
+<div class="mine_world animated zoomInLeft">
+	<div class="mine_posi" ng-click="gomine()"></div>
+	<img src="img/Screenshotworld.jpg"/>
+</div>
+<!--待出行-->
+<div class="mine_chuxing animated zoomInUp">
+	<div class="mine_posi" ng-click="gomine()"></div>
+	<img src="img/Screenshot_travel.jpg"/>
+</div>
+<!--待补充-->
+<div class="mine_supplement animated zoomInUp">
+	<div class="mine_posi" ng-click="gomine()"></div>
+	<img src="img/Screenshot_supplement.jpg"/>
+</div>
+<!--售后-->
+<div class="mine_Customer animated zoomInUp">
+	<div class="mine_posi" ng-click="gomine()"></div>
+	<img src="img/Screenshot_Customer.jpg"/>
+</div>
+<!--我的出行-->
+<div class="mine_footprint animated fadeInLeftBig">
+	<div class="mine_posi" ng-click="gomine()"></div>
+	<div class="mine_posi_right"  ng-click="emmmm()"></div>
+	<img src="img/Screenshot_footprint_top.jpg" alt="" />
+	<img src="img/Screenshot_footprint1.jpg" class="emmmm"/>
 </div>

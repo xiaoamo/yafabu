@@ -59,5 +59,11 @@ define(['router','css!modules/citywalk/citywalk.css'],function(app,css){
 			};
 			$scope.flag2=true;
 		};
+		
+		$scope.gohome1=function(){
+			window.location.href = window.location.href.split('#')[0]+'#/home';
+			$("#tabbar").show();
+		}
+		
 	}])
 })

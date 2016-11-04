@@ -26,7 +26,7 @@
 	<!--访问历史-->
 	<div class="homeHistory">
 		<div>
-			<i class="active">访问历史</i>
+			<i class="active1">访问历史</i>
 			<span>日本</span>
 			<span>韩国</span>
 			<span>澳大利亚</span>
@@ -56,7 +56,7 @@
 	<section class="homehot">
 		<h5>当季热门</h5>
 		<div ng-repeat="hot in hotTopic">
-			<div class="hot_pic"><img ng-src="{{hot.img}}" alt="" /></div>
+			<div class="hot_pic"><img lazy-src="{{hot.img}}" alt="" /></div>
 			<div class="homescroll scrolllist">
 			   <div>
 				   <li id="homehot_list" ng-repeat="y in hot.elite">
@@ -72,7 +72,7 @@
 		<h5>猜你喜欢</h5>
 		<div ng-repeat="like in love">
 			<div class="lovetravel">
-				<img ng-src="{{like.pic}}" data-original="{{y.pic}}" class="lazy"/>
+				<img lazy-src="{{like.pic}}" data-original="{{y.pic}}" class="lazy"/>
 			</div>
 			<p class="lovetitle">{{like.title}}</p>
 			<span class="loveSalecount">{{like.sale_count}}件已售</span>

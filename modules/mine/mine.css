@@ -35,9 +35,33 @@
     width: 100%;
     height: 2.5rem;
 }
-
-
-
+.minelist4{
+    position: absolute;
+    top: 18.5rem;
+    width: 100%;
+    height: 3rem;
+}
+.minelist4 span{
+	display: inline-block;
+	float: left;
+	width: 25%;
+	height: 100%;
+}
+.minelist5{
+    position: absolute;
+    top: 16rem;
+    right: 0;
+    width: 26%;
+    height: 2rem;
+}
+.minelist6{
+	position: absolute;
+    top: 12rem;
+    right: 0;
+    left: 25%;
+    width: 25%;
+    height: 3rem;
+}
 
 
 .mine_erji{
@@ -80,6 +104,7 @@
 	top: 0;
 	z-index: 101;
 	display: none;
+	animation-duration: 0.6s !important;
 }
 .mine_more>div>span:last-child{
 	display: inline-block;
@@ -87,4 +112,112 @@
     line-height: 3rem;
     margin-left: 7.7rem;
     color: #FFFFFF;
+}
+
+
+.mine_fukuang{
+	width: 100%;
+	position: absolute;
+	top: 0;
+	display: none;
+	animation-duration: 0.6s !important;
+}
+.mine_fukuang>img{
+	width: 100%;
+}
+.mine_fukuang>div{
+	width: 100%;
+	height: 3rem;
+	background: url(../../img/homebg.jpg);
+	padding-left: 1%;
+}
+.mine_fukuang>div>span:first-child{
+	display: inline-block;
+	width: 9%;
+	height: 50%;
+	margin-top: 0.6rem;
+}
+.mine_fukuang>div>span:first-child img{
+	width: 100%;
+	height: 100%;
+	vertical-align: middle;
+}
+
+.mine_fukuang>div>span:last-child{
+	display: inline-block;
+    text-align: center;
+    line-height: 3rem;
+    margin-left: 7.7rem;
+    color: #FFFFFF;
+}
+.mine_world{
+	width: 100%;
+	position: absolute;
+	top: 0;
+	display: none;
+	animation-duration: 0.6s !important;
+}
+.mine_world>img{
+	width: 100%;
+}
+.mine_posi{
+	width: 10%;
+    height: 5%;
+    position: absolute;
+    top: 0.5rem;
+}
+.mine_chuxing{
+	width: 100%;
+	position: absolute;
+	top: 0;
+	display: none;
+	animation-duration: 0.6s !important;
+}
+.mine_chuxing img{
+	width: 100%;
+}
+.mine_supplement{
+	width: 100%;
+	position: absolute;
+	top: 0;
+	display: none;
+	animation-duration: 0.6s !important;
+}
+.mine_supplement img{
+	width: 100%;
+}
+
+.mine_Customer{
+	width: 100%;
+	position: absolute;
+	top: 0;
+	display: none;
+	animation-duration: 0.6s !important;
+}
+.mine_Customer img{
+	width: 100%;
+}
+
+.mine_footprint{
+    width: 100%;
+    position: absolute;
+    height: 44rem;
+    top: 0;
+     display: none; 
+    animation-duration: 0.6s !important;
+    background: white;
+    z-index: 101;
+    overflow: hidden;
+}
+.mine_posi_right{
+	width: 10%;
+    height: 5%;
+    position: absolute;
+    top: 0.5rem;
+    right: 0;
+}
+
+.mine_footprint img{
+	width: 100%;
+	float: left;
 }

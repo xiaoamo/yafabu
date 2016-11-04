@@ -1,12 +1,12 @@
 <div class="cityFun">
 	<div class="funHead" ng-hide="!flag">
-		<div class="back"></div>
+		<div class="back" ng-click="gohome()"></div>
 		<div class="search" ng-click="searchFun()"></div>
 	</div>
 	<div class="headEmpty" ng-hide="flag"></div>
 	<div class="reallySearch" ng-hide="flag">
 		<div class="top">
-			<i class="fa fa-search"></i>
+			<i class="fa fa-search" ng-click="gohome()"></i>
 			<input type="text" placeholder="搜索目的地/折扣/关键字" />
 			<p>搜索</p>
 		</div>

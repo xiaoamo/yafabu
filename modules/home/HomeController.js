@@ -44,9 +44,11 @@ define(['router','css!modules/home/home.css','swiper'], function (app,css,swiper
 			}else if(i==3){
 				window.location.href = window.location.href.split('#')[0]+'#/citycard';	
 			}else if(i==2){
-				window.location.href = window.location.href.split('#')[0]+'#/cityfun';	
+				window.location.href = window.location.href.split('#')[0]+'#/cityfun';
+				$('#tabbar').hide();
 			}else if(i==6){
-				window.location.href = window.location.href.split('#')[0]+'#/citywalk';	
+				window.location.href = window.location.href.split('#')[0]+'#/citywalk';
+				$('#tabbar').hide();
 			}
 		}
 		
