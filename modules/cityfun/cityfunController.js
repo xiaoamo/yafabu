@@ -75,7 +75,6 @@ define(['router','css!modules/cityfun/cityfun.css'],function(app,css){
 	}]);
 	return app.controller('cityfunController',["$scope","funService","cityFun",function($scope,funService,cityFun){
 		$scope.flag=true;
-		$scope.index=0;
 		funService.get().success(function(res){
 			//轮播图的数据
 			$scope.bannerData=res.data.head_slide.slide_data;
